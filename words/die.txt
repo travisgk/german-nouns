@@ -158,6 +158,7 @@ Ambivalenz	Ambivalenzen
 Ambulanz	Ambulanzen
 Ameise	Ameisen
 Amerikanerin	Amerikanerinnen
+Amnesie	Amnesien
 Amnestie	Amnestien
 Ampel	Ampeln
 Ampelanlage	Ampelanlagen
@@ -515,6 +516,7 @@ Bahnlinie	Bahnlinien
 Bahnstation	Bahnstationen
 Bahnstrecke	Bahnstrecken
 Baisse	Baissen
+Balance	Balancen
 Ballade	Balladen
 Banane	Bananen
 Bandage	Bandagen
@@ -858,6 +860,7 @@ Blamage	Blamagen
 Blase	Blasen
 Blaskapelle	Blaskapellen
 Blasmusik	Blasmusiken
+Blasphemie	Blasphemien
 Bleibe	Bleiben
 Bleiche	Bleichen
 Blessur	Blessuren
@@ -1041,6 +1044,7 @@ Crew	Crews
 Currywurst	Currywürste
 Dachorganisation	Dachorganisationen
 Dachterrasse	Dachterrassen
+Damentoilette	Damentoiletten
 Dampflok	Dampfloks
 Dankbarkeit	Dankbarkeiten
 Darbietung	Darbietungen
@@ -1070,6 +1074,7 @@ Delikatesse	Delikatessen
 Delle	Dellen
 Demenz	Demenzen
 Demission	Demissionen
+Demo	Demos
 Demokratie	Demokratien
 Demokratiebewegung	Demokratiebewegungen
 Demokratisierung	Demokratisierungen
@@ -1103,6 +1108,7 @@ Dialektik	—
 Diaspora	—
 Dichte	Dichten
 Dichterin	Dichterinnen
+Dichtung	Dichtungen
 Dienstleistung	Dienstleistungen
 Dienstleistungsgewerkschaft	Dienstleistungsgewerkschaften
 Dienstreise	Dienstreisen
@@ -1198,6 +1204,7 @@ Dunkelziffer	Dunkelziffern
 Durchblutung	Durchblutungen
 Durchfahrt	Durchfahrten
 Durchführung	Durchführungen
+Durchreise	Durchreisen
 Durchsage	Durchsagen
 Durchschlagskraft	Durchschlagskräfte
 Durchsetzung	—
@@ -1227,6 +1234,7 @@ Ehrensache	Ehrensachen
 Ehrfurcht	—
 Ehrlichkeit	—
 Ehrung	Ehrungen
+Eiche	Eichen
 Eichel	Eicheln
 Eidgenossenschaft	Eidgenossenschaften
 Eifel	—
@@ -1328,6 +1336,7 @@ Einwohnerin	Einwohnerinnen
 Einwohnerzahl	Einwohnerzahlen
 Einzahlung	Einzahlungen
 Einzelgewerkschaft	Einzelgewerkschaften
+Einzelhaft	—
 Einzelheit	Einzelheiten
 Einzelleistung	Einzelleistungen
 Einzelperson	Einzelpersonen
@@ -1335,6 +1344,7 @@ Einzelwertung	Einzelwertungen
 Einzigartigkeit	Einzigartigkeiten
 Einöde	Einöden
 Eisbahn	Eisbahnen
+Eiscreme	Eiscremen
 Eisenbahn	Eisenbahnen
 Eisenbahngesellschaft	Eisenbahngesellschaften
 Eisenbahnlinie	Eisenbahnlinien
@@ -1442,6 +1452,7 @@ Erbsubstanz	Erbsubstanzen
 Erdatmosphäre	Erdatmosphären
 Erdbeere	Erdbeeren
 Erde	Erden
+Erdnussbutter	Erdnussbutter
 Erdoberfläche	Erdoberflächen
 Erfahrung	Erfahrungen
 Erfassung	Erfassungen
@@ -1502,6 +1513,7 @@ Errungenschaft	Errungenschaften
 Ersatzbank	Ersatzbanken
 Ersatzkasse	Ersatzkassen
 Ersatzwahl	Ersatzwahlen
+Erschaffung	Erschaffungen
 Erscheinung	Erscheinungen
 Erscheinungsform	Erscheinungsformen
 Erschöpfung	Erschöpfungen
@@ -1563,6 +1575,7 @@ Exkursion	Exkursionen
 Exotik	—
 Expansion	Expansionen
 Expedition	Expeditionen
+Experte	Experten
 Expertengruppe	Expertengruppen
 Expertenkommission	Expertenkommissionen
 Expertin	Expertinnen
@@ -1647,6 +1660,7 @@ Fehde	Fehden
 Fehlanzeige	Fehlanzeigen
 Fehlentscheidung	Fehlentscheidungen
 Fehlentwicklung	Fehlentwicklungen
+Fehlfunktion	Fehlfunktionen
 Fehlleistung	Fehlleistungen
 Feier	Feiern
 Feierlichkeit	Feierlichkeiten
@@ -1754,6 +1768,7 @@ Floskel	Floskeln
 Flotte	Flotten
 Flucht	Fluchten
 Fluchtgefahr	—
+Flugbahn	Flugbahnen
 Flugbewegung	Flugbewegungen
 Fluggesellschaft	Fluggesellschaften
 Fluglinie	Fluglinien
@@ -1898,6 +1913,7 @@ Garantie	Garantien
 Garde	Garden
 Garderobe	Garderoben
 Gardine	Gardinen
+Garnele	Garnelen
 Garnison	Garnisonen
 Garnitur	Garnituren
 Gartenanlage	Gartenanlagen
@@ -2113,6 +2129,7 @@ Glückszahl	Glückszahlen
 Glühbirne	Glühbirnen
 Gnade	Gnaden
 Goldmedaille	Goldmedaillen
+Goldmine	Goldminen
 Goldreserve	Goldreserven
 Gondel	Gondeln
 Gottheit	Gottheiten
@@ -2138,6 +2155,7 @@ Grippe	Grippen
 Grippewelle	Grippewellen
 Groteske	Grotesken
 Grotte	Grotten
+Großeltern	—
 Großmama	Großmamas
 Großmutter	Großmütter
 Großstadt	Großstädte
@@ -2196,6 +2214,7 @@ Halbzeitpause	Halbzeitpausen
 Halde	Halden
 Halfpipe	Halfpipes
 Halle	Hallen
+Halluzination	Halluzinationen
 Halse	Halsen
 Haltbarkeit	Haltbarkeiten
 Haltestelle	Haltestellen
@@ -2380,6 +2399,7 @@ Hoffnungslosigkeit	—
 Hoheit	Hoheiten
 Holding	Holdings
 Hommage	Hommagen
+Horde	Horden
 Hose	Hosen
 Hosentasche	Hosentaschen
 Hotelkette	Hotelketten
@@ -2824,6 +2844,7 @@ Konsultation	Konsultationen
 Kontaktadresse	Kontaktadressen
 Kontaktaufnahme	Kontaktaufnahmen
 Kontaktgruppe	Kontaktgruppen
+Kontaktlinse	Kontaktlinsen
 Kontonummer	Kontonummern
 Kontrolle	Kontrollen
 Kontrollstelle	Kontrollstellen
@@ -2972,6 +2993,7 @@ Kurzarbeit	Kurzarbeiten
 Kurzgeschichte	Kurzgeschichten
 Kurzparkzone	Kurzparkzonen
 Kurzweil	—
+Kusine	Kusinen
 Kutsche	Kutschen
 Königin	Königinnen
 Königsfamilie	Königsfamilien
@@ -3091,6 +3113,7 @@ Lehrstunde	Lehrstunden
 Lehrveranstaltung	Lehrveranstaltungen
 Lehrzeit	Lehrzeiten
 Leiche	Leichen
+Leichenhalle	Leichenhallen
 Leichtathletik	—
 Leichtigkeit	Leichtigkeiten
 Leidenschaft	Leidenschaften
@@ -3151,6 +3174,7 @@ Linse	Linsen
 Linzerin	Linzerinnen
 Liquidation	Liquidationen
 Liquidierung	Liquidierungen
+List	Listen
 Liste	Listen
 Literatur	Literaturen
 Literaturgeschichte	Literaturgeschichten
@@ -3283,6 +3307,7 @@ Mauer	Mauern
 Maus	Mäuse
 Maut	Mauten
 Maxime	Maximen
+Mayonnaise	Mayonnaisen
 Maß	Maße
 Maßnahme	Maßnahmen
 Mechanik	Mechaniken
@@ -3371,6 +3396,7 @@ Miliz	Milizen
 Milliarde	Milliarden
 Million	Millionen
 Millionenstadt	Millionenstädte
+Milz	Milzen
 Mimi	Mimis
 Mimik	—
 Mindereinnahme	Mindereinnahmen
@@ -3394,6 +3420,7 @@ Mitarbeit	—
 Mitarbeiterin	Mitarbeiterinnen
 Mitarbeiterzahl	Mitarbeiterzahlen
 Mitbestimmung	Mitbestimmungen
+Mitgift	Mitgiften
 Mitgliederversammlung	Mitgliederversammlungen
 Mitgliederzahl	Mitgliederzahlen
 Mitgliedschaft	Mitgliedschaften
@@ -3437,6 +3464,7 @@ Montage	Montagen
 Moral	Moralen
 Morddrohung	Morddrohungen
 Mordkommission	Mordkommissionen
+Mordwaffe	Mordwaffen
 More	Moren
 Morgendämmerung	Morgendämmerungen
 Morgenpost	Morgenposten
@@ -3526,6 +3554,7 @@ Nachzahlung	Nachzahlungen
 Nacktheit	Nacktheiten
 Nadel	Nadeln
 Nagelprobe	Nagelproben
+Nahaufnahme	Nahaufnahmen
 Nahrung	Nahrungen
 Naht	Nähte
 Nahversorgung	—
@@ -3654,6 +3683,7 @@ Obdachlosigkeit	Obdachlosigkeiten
 Obduktion	Obduktionen
 Obergrenze	Obergrenzen
 Oberhand	—
+Oberin	Oberinnen
 Oberklasse	Oberklassen
 Oberleitung	Oberleitungen
 Oberliga	Oberligen
@@ -3786,11 +3816,14 @@ Pathologie	Pathologien
 Patientin	Patientinnen
 Patrone	Patronen
 Patrouille	Patrouillen
+Patsche	Patschen
 Patte	Patten
 Pauke	Pauken
 Pauschale	Pauschalen	Pauschale	Pauschalien
 Pauschalreise	Pauschalreisen
 Pause	Pausen
+Peilung	Peilungen
+Pein	Peinnen
 Peinlichkeit	Peinlichkeiten
 Peitsche	Peitschen
 Pension	Pensionen
@@ -4412,6 +4445,7 @@ Scheiße	Scheißen
 Schelte	Schelten
 Schenke	Schenken
 Schenkung	Schenkungen
+Scherbe	Scherben
 Schere	Scheren
 Scheu	Scheus
 Scheuer	Scheuern
@@ -4428,6 +4462,7 @@ Schirmherrschaft	Schirmherrschaften
 Schizophrenie	Schizophrenien
 Schlacht	Schlachten
 Schlachtung	Schlachtungen
+Schlaftablette	Schlaftabletten
 Schlagkraft	—
 Schlagzeile	Schlagzeilen
 Schlammschlacht	Schlammschlachten
@@ -4474,6 +4509,7 @@ Schreibmaschine	Schreibmaschinen
 Schreibweise	Schreibweisen
 Schreinerei	Schreinereien
 Schrift	Schriften
+Schriftrolle	Schriftrollen
 Schriftstellerin	Schriftstellerinnen
 Schublade	Schubladen
 Schuhgröße	Schuhgrößen
@@ -4753,6 +4789,7 @@ Spendenaktion	Spendenaktionen
 Sperre	Sperren
 Sperrstunde	Sperrstunden
 Sperrung	Sperrungen
+Spesen	—
 Spezialeinheit	Spezialeinheiten
 Spezialisierung	Spezialisierungen
 Spezialistin	Spezialistinnen
@@ -5176,6 +5213,7 @@ Tragödie	Tragödien
 Trainerbank	Trainerbänke
 Trainerin	Trainerinnen
 Trainingseinheit	Trainingseinheiten
+Trance	Trancen
 Tranche	Tranchen
 Transaktion	Transaktionen
 Transformation	Transformationen
@@ -5214,6 +5252,7 @@ Truhe	Truhen
 Trunkenheit	—
 Truppe	Truppen
 Träne	Tränen
+Trümmer	—
 Tschechin	Tschechinnen
 Tschechoslowakei	Tschechoslowakeis
 Tube	Tuben
@@ -5686,6 +5725,7 @@ Vorrunde	Vorrunden
 Vorsaison	Vorsaisonen
 Vorschau	Vorschaus
 Vorschrift	Vorschriften
+Vorsehung	Vorsehungen
 Vorsicht	—
 Vorsichtsmaßnahme	Vorsichtsmaßnahmen
 Vorsorge	—
@@ -5739,6 +5779,7 @@ Wahlschlappe	Wahlschlappen
 Wahlurne	Wahlurnen
 Wahlveranstaltung	Wahlveranstaltungen
 Wahlwerbung	Wahlwerbungen
+Wahnvorstellung	Wahnvorstellungen
 Wahrhaftigkeit	Wahrhaftigkeiten
 Wahrheit	Wahrheiten
 Wahrnehmung	Wahrnehmungen
@@ -5787,6 +5828,7 @@ Wehrmacht	Wehrmächte
 Wehrpflicht	—
 Weiblichkeit	Weiblichkeiten
 Weichenstellung	Weichenstellungen
+Weide	Weiden
 Weigerung	Weigerungen
 Weihnacht	—
 Weihnachtsfeier	Weihnachtsfeiern
@@ -5867,6 +5909,7 @@ Wetterlage	Wetterlagen
 Wettervorhersage	Wettervorhersagen
 Wettfahrt	Wettfahrten
 Wichtigkeit	Wichtigkeiten
+Widerrede	Widerreden
 Widmung	Widmungen
 Widrigkeit	Widrigkeiten
 Wiederaufarbeitung	Wiederaufarbeitungen
@@ -5961,6 +6004,8 @@ Wärme	Wärmen
 Wäsche	Wäschen
 Wäscherei	Wäschereis
 Wüste	Wüsten
+Yacht	Yachten
+Yoga	Yogas
 Zahl	Zahlen
 Zahlung	Zahlungen
 Zahlungsmoral	—
@@ -6011,6 +6056,7 @@ Ziehung	Ziehungen
 Zielgerade	Zielgeraden
 Zielgruppe	Zielgruppen
 Ziellinie	Ziellinien
+Zielperson	Zielpersonen
 Zielrichtung	Zielrichtungen
 Zielscheibe	Zielscheiben
 Zielsetzung	Zielsetzungen

@@ -4,6 +4,7 @@ Abbild	Abbilder
 Abc	Abc
 Abchasien	—
 Abendblatt	Abendblätter
+Abendbrot	Abendbrote
 Abendessen	Abendessen
 Abendkleid	Abendkleider
 Abendland	Abendländer
@@ -13,15 +14,18 @@ Abenteuer	Abenteuer
 Aber	Aber	Abers
 Abführmittel	Abführmittel
 Abgas	Abgase
+Abgehen	Abgehen
 Abgeordnetenhaus	Abgeordnetenhäuser
 Abhören	Abhören
 Abi	Abis
 Abitur	Abiture
 Abkommen	Abkommen
+Abladen	Abladen
 Ableben	Ableben
 Ablenkungsmanöver	Ablenkungsmanöver
 Abo	Abos
 Abonnement	Abonnements	Abonnemente
+Abschleppen	Abschleppen
 Abschluss	Abschlüsse
 Abschlusstraining	Abschlusstrainings
 Abschneiden	Abschneiden
@@ -68,6 +72,7 @@ Alltagsleben	Alltagsleben
 Almosen	Almosen
 Alpenland	Alpenländer
 Alpha	Alphas
+Alphabet	Alphabete
 Altenheim	Altenheime
 Altersheim	Altersheime
 Altertum	Altertümer
@@ -98,12 +103,14 @@ Angeln	Angeln
 Angesicht	Angesichter
 Angola	—
 Ankara	—
+Anklopfen	Anklopfen
 Anliegen	Anliegen
 Anmeldeformular	Anmeldeformulare
 Anrecht	Anrechte
 Ansagen	Ansagen
 Ansehen	—
 Ansinnen	Ansinnen
+Anstarren	Anstarren
 Antibiotikum	Antibiotika
 Antiquariat	Antiquariate
 Antlitz	Antlitze
@@ -147,6 +154,7 @@ Arrangement	Arrangements
 Arrondissement	Arrondissements
 Arschloch	Arschlöcher
 Arsenal	Arsenale
+Artefakt	Artefakte
 Arzneimittel	Arzneimittel
 Aschenputtel	—
 Aserbaidschan	—
@@ -200,6 +208,7 @@ Auslöschen	Auslöschen
 Ausrücken	Ausrücken
 Ausschussmitglied	Ausschussmitglieder
 Aussehen	Aussehen
+Aussterben	Aussterben
 Austauschprogramm	Austauschprogramme
 Australien	—
 Austria	—
@@ -399,6 +408,7 @@ Brettspiel	Brettspiele
 Bridge	—
 Britannien	—
 Brot	Brote
+Brummen	Brummen
 Bruttoeinkommen	Bruttoeinkommen
 Bruttoinlandsprodukt	Bruttoinlandsprodukte
 Bruttosozialprodukt	Bruttosozialprodukte
@@ -408,6 +418,7 @@ Buch	Bücher
 Budapest	—
 Budget	Budgets
 Budgetdefizit	Budgetdefizite
+Buffet	Buffets
 Bukarest	—
 Bulgarien	—
 Bulletin	Bulletins
@@ -649,6 +660,7 @@ Einmaleins	—
 Einsatzfahrzeug	Einsatzfahrzeuge
 Einsatzgebiet	Einsatzgebiete
 Einsatzkommando	Einsatzkommandos
+Einschreiben	Einschreiben
 Eintreffen	Eintreffen
 Eintrittsgeld	Eintrittsgelder
 Einvernehmen	—
@@ -684,6 +696,7 @@ Endprodukt	Endprodukte
 Endspiel	Endspiele
 Energieversorgungsunternehmen	Energieversorgungsunternehmen
 Engagement	Engagements
+Engelchen	Engelchen
 Engineering	—
 England	—
 Englisch	—
@@ -702,6 +715,7 @@ Epos	Epen
 Equipment	Equipments
 Erbarmen	Erbarmen
 Erbgut	Erbgüter
+Erbrechen	Erbrechen
 Erdbeben	Erdbeben
 Erdbebenopfer	Erdbebenopfer
 Erdgas	Erdgase
@@ -724,6 +738,7 @@ Erlöschen	Erlöschen
 Ermessen	Ermessen
 Ermittlungsverfahren	Ermittlungsverfahren
 Ernähren	Ernähren
+Ersatzteil	Ersatzteile
 Erscheinungsbild	Erscheinungsbilder
 Erstaunen	Erstaunen
 Ersuchen	Ersuchen
@@ -853,6 +868,7 @@ Flachdach	Flachdächer
 Flachland	Flachländer
 Flaggschiff	Flaggschiffe
 Flandern	—
+Flattern	Flattern
 Fleisch	—
 Flensburg	—
 Florenz	—
@@ -977,6 +993,7 @@ Gehen	—
 Gehirn	Gehirne
 Geiseldrama	Geiseldramen
 Gel	Gele	Gels
+Gelaber	—
 Gelb	Gelbs
 Geld	Gelder
 Geldinstitut	Geldinstitute
@@ -1006,6 +1023,7 @@ Genehmigungsverfahren	Genehmigungsverfahren
 Generalkonsulat	Generalkonsulate
 Genf	—
 Genick	Genicke
+Genie	Genies
 Genom	Genome
 Genre	Genres
 Georgia	—
@@ -1062,6 +1080,7 @@ Gesundheitswesen	—
 Getreide	Getreide
 Getriebe	Getriebe
 Getto	Gettos	Getti
+Getue	—
 Gewaltverbrechen	Gewaltverbrechen
 Gewand	Gewänder
 Gewebe	Gewebe
@@ -1097,6 +1116,7 @@ Glaubensbekenntnis	Glaubensbekenntnisse
 Gleichgewicht	Gleichgewichte
 Gleichnis	Gleichnisse
 Gleis	Gleise
+Gleiten	Gleiten
 Glied	Glieder
 Gläschen	Gläschen
 Glöckchen	Glöckchen
@@ -1135,6 +1155,7 @@ Grundproblem	Grundprobleme
 Grundrecht	Grundrechte
 Grundsatzprogramm	Grundsatzprogramme
 Grundwasser	Grundwasser	Grundwässer
+Grunzen	Grunzen
 Gruppenspiel	Gruppenspiele
 Grübchen	Grübchen
 Grün	Grüns
@@ -1149,6 +1170,7 @@ Gästehaus	Gästehäuser
 Gästezimmer	Gästezimmer
 Haar	Haare
 Haben	—
+Hackfleisch	Hackfleische
 Hafenbecken	Hafenbecken
 Haifa	—
 Haiti	—
@@ -1160,6 +1182,7 @@ Hallenbad	Hallenbäder
 Hallenturnier	Hallenturniere
 Hallo	Hallos
 Halloween	Halloweens
+Halsband	Halsbänder
 Halteverbot	Halteverbote
 Hamburg	—
 Hameln	—
@@ -1184,6 +1207,7 @@ Hanoi	—
 Happening	Happenings
 Harare	—
 Harmonium	Harmonien	Harmoniums
+Hasch	—
 Haupt	Häupter
 Hauptanliegen	Hauptanliegen
 Hauptargument	Hauptargumente
@@ -1205,6 +1229,7 @@ Hearing	Hearings
 Hebräisch	—
 Heck	Hecke
 Heer	Heere
+Heft	Hefte
 Heidelberg	—
 Heil	—
 Heilbad	Heilbäder
@@ -1259,6 +1284,7 @@ Hochhaus	Hochhäuser
 Hochland	Hochländer	Hochlande
 Hochschulgesetz	Hochschulgesetze
 Hochwasser	Hochwasser
+Hochzeitsgeschenk	Hochzeitsgeschenke
 Hockey	Hockeys
 Holland	—
 Hollywood	—
@@ -1290,6 +1316,7 @@ Idol	Idole
 Idyll	Idylle
 Illinois	—
 Image	Images
+Imitieren	Imitieren
 Immunsystem	Immunsysteme
 Imperium	Imperien
 Implantat	Implantate
@@ -1361,6 +1388,7 @@ Jakarta	—
 Jamaika	Jamaikas
 Japan	—
 Japanisch	—
+Jaulen	Jaulen
 Jawort	Jaworte
 Jena	—
 Jenseits	—
@@ -1419,6 +1447,7 @@ Karaoke	—
 Karate	—
 Karenzgeld	Karenzgelder
 Karlsruhe	—
+Karo	Karos
 Karriereende	Karriereenden
 Kartell	Kartelle
 Kartellamt	Kartellämter
@@ -1491,6 +1520,7 @@ Klima	Klimas
 Klinikum	Klinika	Kliniken
 Klischee	Klischees
 Klo	Klos
+Klopapier	Klopapiere
 Kloster	Klöster
 Klubhaus	Klubhäuser
 Knie	Knie
@@ -1547,8 +1577,10 @@ Konzerthaus	Konzerthäuser
 Konzertprogramm	Konzertprogramme
 Konzil	Konzile	Konzilien
 Kopenhagen	—
+Kopfgeld	Kopfgelder
 Kopfsteinpflaster	Kopfsteinpflaster
 Kopftuch	Kopftücher
+Kopfweh	—
 Kopfzerbrechen	—
 Korea	Korea	Koreas
 Korn	Körner
@@ -1565,9 +1597,11 @@ Krankengeld	Krankengelder
 Krankenhaus	Krankenhäuser
 Krankheitsbild	Krankheitsbilder
 Kraushaar	Kraushaare
+Kraut	Kräuter
 Krebsleiden	Krebsleiden
 Kreditinstitut	Kreditinstitute
 Krefeld	—
+Kreischen	Kreischen
 Kreisgebiet	Kreisgebiete
 Kreiskrankenhaus	Kreiskrankenhäuser
 Kreisverwaltungsreferat	Kreisverwaltungsreferate
@@ -1722,6 +1756,7 @@ Liverpool	—
 Loblied	Loblieder
 Locarno	—
 Loch	Löcher
+Logbuch	Logbücher
 Lohnniveau	Lohnniveaus
 Lokal	Lokale
 Lokalderby	Lokalderbys
@@ -1752,6 +1787,7 @@ Magazin	Magazine
 Magdeburg	—
 Magnesium	—
 Magnetfeld	Magnetfelder
+Mahl	Mahle
 Mahnmal	Mahnmale	Mahnmäler
 Mailand	—
 Makedonien	—
@@ -1785,6 +1821,7 @@ Martini	—
 Martyrium	Martyrien
 Maryland	—
 Maschinengewehr	Maschinengewehre
+Maskottchen	Maskottchen
 Massachusetts	—
 Massaker	Massaker
 Massenblatt	Massenblätter
@@ -1902,6 +1939,7 @@ Moor	Moore	Möser
 Moos	Moose
 Moped	Mopeds
 Moratorium	Moratorien
+Morddezernat	Morddezernate
 Mordopfer	Mordopfer
 Morgengrauen	Morgengrauen
 Mosaik	Mosaiken	Mosaike
@@ -1943,6 +1981,7 @@ Nachschlagewerk	Nachschlagewerke
 Nachsehen	—
 Nachspiel	Nachspiele
 Nachtessen	Nachtessen
+Nachthemd	Nachthemden
 Nachtleben	—
 Nachwort	Nachworte
 Nachwuchstalent	Nachwuchstalente
@@ -1982,12 +2021,14 @@ Neuguinea	—
 Neujahr	—
 Neujahrskonzert	Neujahrskonzerte
 Neuland	—
+Neuseeland	Neuseeländer
 Neutron	Neutronen
 Nevada	—
 Nicaragua	Nicaraguas
 Nichtmitglied	Nichtmitglieder
 Nichts	Nichtse
 Nichtstun	—
+Nicken	Nicken
 Nickerchen	Nickerchen
 Niederbayern	—
 Niedersachsen	—
@@ -2134,6 +2175,7 @@ Pfarramt	Pfarrämter
 Pfarrhaus	Pfarrhäuser
 Pfeifkonzert	Pfeifkonzerte
 Pferd	Pferde
+Pferderennen	Pferderennen
 Pfingsten	Pfingsten
 Pflanzenschutzmittel	Pflanzenschutzmittel
 Pflaster	Pflaster
@@ -2146,7 +2188,9 @@ Pförtnerhaus	Pförterhäuser
 Phantom	Phantome
 Phantombild	Phantombilder
 Pharmaunternehmen	Pharmaunternehmen
+Photo	Photos
 Photon	Photonen
+Piano	Pianos
 Pickerl	Pickerl	Pickerln
 Picknick	Picknicke
 Piepen	—
@@ -2160,6 +2204,7 @@ Plagiat	Plagiate
 Plakat	Plakate
 Planetarium	Planetarien
 Planfeststellungsverfahren	Planfeststellungsverfahren
+Plankton	—
 Planspiel	Planspiele
 Planungsreferat	Planungsreferate
 Plasma	Plasmas
@@ -2185,6 +2230,7 @@ Polizeipräsidium	Polizeipräsidien
 Polizeirevier	Polizeireviere
 Polnisch	—
 Polo	—
+Poltern	Poltern
 Popcorn	Popcorns
 Portal	Portale
 Portefeuille	Portefeuilles
@@ -2200,6 +2246,7 @@ Postamt	Postämter
 Postauto	Postautos
 Postfach	Postfächer
 Postulat	Postulate
+Pot	—
 Potential	Potentiale
 Potenzial	Potenziale
 Potpourri	Potpourris
@@ -2237,6 +2284,7 @@ Proletariat	—
 Promille	Promille
 Protein	Proteine
 Protektorat	Protektorate
+Protestieren	Protestieren
 Protokoll	Protokolle
 Proton	Protonen
 Provisorium	Provisorien
@@ -2275,6 +2323,7 @@ Rahmenprogramm	Rahmenprogramme
 Rampenlicht	Rampenlichter
 Rangun	—
 Ranking	Rankings
+Rascheln	Rascheln
 Rathaus	Rathäuser
 Rating	Ratings
 Ratsmitglied	Ratsmitglieder
@@ -2368,6 +2417,7 @@ Rimini	—
 Rind	Rinder
 Rindfleisch	Rindfleische
 Ringen	Ringen
+Rippchen	Rippchen
 Risiko	Risikos	Risiken	Risken
 Risikokapital	—
 Rita	—
@@ -2422,6 +2472,7 @@ Sardinien	—
 Sauerkraut	—
 Sauerland	—
 Schach	Schachs
+Schachmatt	Schachmatts
 Schachspiel	Schachspiele
 Schaf	Schafe
 Schaffen	—
@@ -2475,6 +2526,7 @@ Schneetreiben	—
 Schneewittchen	—
 Schnellverfahren	Schnellverfahren
 Schnitzel	Schnitzel
+Schnupfen	Schnupfen
 Schnäppchen	Schnäppchen
 Schottland	—
 Schrecken	Schrecken
@@ -2500,6 +2552,7 @@ Schwarz	—
 Schwarzgeld	Schwarzgelder
 Schwarzweiß	—
 Schweden	—
+Schwedisch	—
 Schwefeldioxid	—
 Schweigen	Schweigen
 Schwein	Schweine
@@ -2545,8 +2598,10 @@ Serum	Seren
 Service	Services
 Sextett	Sextette
 Sexualdelikt	Sexualdelikte
+Shampoo	Shampoos
 Shirt	Shirts
 Shopping	Shoppings
+Showbusiness	—
 Showgeschäft	—
 Sibirien	—
 Sicherheitskonzept	Sicherheitskonzepte
@@ -2567,8 +2622,10 @@ Single	Singlen	Singlen
 Singspiel	Singspiele
 Sinnbild	Sinnbilder
 Sizilien	—
+Skalpell	Skalpelle
 Skandinavien	—
 Skateboard	Skateboards
+Skelett	Skelette
 Skigebiet	Skigebiete
 Skispringen	Skispringen
 Skript	Skripte	Skripten	Skripts
@@ -2701,6 +2758,7 @@ Steuergeld	Steuergelder
 Steuergesetz	Steuergesetze
 Steuerrecht	Steuerrechte
 Stichwort	Stichwörter
+Sticken	Sticken
 Stickoxid	Stickoxide
 Stiefkind	Stiefkinder
 Stiegenhaus	Stiegenhäuser
@@ -2710,10 +2768,12 @@ Stillschweigen	—
 Stilmittel	Stilmittel
 Stimmrecht	Stimmrechte
 Stimmungsbild	Stimmungsbilder
+Stinktier	Stinktiere
 Stipendium	Stipendien
 Stockerl	Stockerln
 Stockholm	—
 Stockwerk	Stockwerke
+Stottern	Stottern
 Strafgericht	Strafgerichte
 Strafgesetzbuch	Strafgesetzbücher
 Strafrecht	—
@@ -2744,6 +2804,7 @@ Suchtgift	Suchtgifte
 Sujet	Sujets
 Sumatra	—
 Surfen	Surfen
+Surren	Surren
 Sushi	Sushis
 Sydney	—
 Symbol	Symbole
@@ -2844,10 +2905,12 @@ Tirol	—
 Tischtennis	—
 Titelbild	Titelbilder
 Titelblatt	Titelblätter
+Toben	Toben
 Tochterunternehmen	Tochterunternehmen
 Todesopfer	Todesopfer
 Todesurteil	Todesurteile
 Togo	—
+Toilettenpapier	Toilettenpapiere
 Tokio	—
 Tonband	Tonbänder
 Tonbandgerät	Tonbandgeräte
@@ -2921,6 +2984,7 @@ Unding	Undinge
 Unentschieden	Unentschieden
 Unfallkrankenhaus	Unfallkrankenhäuser
 Unfallopfer	Unfallopfer
+Ungarisch	—
 Ungarn	—
 Ungeheuer	Ungeheuer
 Ungemach	—
@@ -3025,6 +3089,7 @@ Verteilen	Verteilen
 Vertragswerk	Vertragswerke
 Vertrauen	Vertrauen
 Verwaltungsgericht	Verwaltungsgerichte
+Verweilen	Verweilen
 Verwirrspiel	Verwirrspiele
 Verzeichnis	Verzeichnisse
 Veto	Vetos
@@ -3074,6 +3139,7 @@ Vorrecht	Vorrechte
 Vorrundenspiel	Vorrundenspiele
 Vorschlagsrecht	Vorschlagsrechte
 Vorspiel	Vorspiele
+Vorspielen	Vorspielen
 Vorstandsmitglied	Vorstandsmitglieder
 Vorstellungsgespräch	Vorstellungsgespräche
 Vortäuschen	Vortäuschen
@@ -3141,6 +3207,7 @@ Weihnachtsfest	Weihnachtsfeste
 Weihnachtsgeld	Weihnachtsgelder
 Weihnachtsgeschenk	Weihnachtsgeschenke
 Weihnachtslied	Weihnachtslieder
+Weilchen	Weilchen
 Weimar	—
 Weinfeld	Weinfelder
 Weingut	Weingüter
@@ -3168,6 +3235,7 @@ Westniveau	Westniveaus
 Wettbewerbsrecht	Wettbewerbsrechte
 Wettrennen	Wettrennen
 Wetzlar	—
+Wiederfinden	Wiederfinden
 Wiedersehen	Wiedersehen
 Wien	—
 Wiesbaden	—
@@ -3180,6 +3248,7 @@ Wilhelmshaven	—
 Willkommen	Willkommen
 Wimmern	Wimmern
 Windrad	Windräder
+Winseln	Winseln
 Winterquartier	Winterquartiere
 Wintersemester	Wintersemester
 Wirtschaftsforschungsinstitut	Wirtschaftsforschungsinstitute
@@ -3263,6 +3332,7 @@ Zollamt	Zollämter
 Zubehör	Zubehöre
 Zubrot	Zubrote
 Zuchthaus	Zuchthäuser
+Zucken	Zucken
 Zuckerl	Zuckerl	Zuckerln
 Zugpferd	Zugpferde
 Zuhause	—
