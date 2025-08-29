@@ -20,12 +20,14 @@ Abonnent	Abonnenten
 Abruf	Abrufe
 Absatz	Absätze
 Absatzmarkt	Absatzmärkte
+Abschaum	—
 Abscheu	—
 Abschiebestopp	Abschiebestopps
 Abschied	Abschiede
 Abschiedsbrief	Abschiedsbriefe
 Abschlag	Abschläge
 Abschluss	Abschlüsse
+Abschlussball	Abschlussbälle
 Abschlussbericht	Abschlussberichte
 Abschnitt	Abschnitte
 Abschuss	Abschüsse
@@ -60,6 +62,7 @@ Acker	Äcker	Acker
 Ackerbau	—
 Ackermann	Ackermänner
 Actionfilm	Actionfilme
+Adel	—
 Aderlass	Aderlässe
 Adler	Adler
 Administrator	Administratoren
@@ -86,6 +89,7 @@ Akademiker	Akademiker
 Akkord	Akkorde
 Akku	Akkus
 Akrobat	Akrobaten
+Akt	Akte
 Aktenordner	Aktenordner
 Akteur	Akteure
 Aktienhandel	—
@@ -123,6 +127,7 @@ Alpinist	Alpinisten
 Altar	Altäre
 Altbau	Altbauten
 Altbundeskanzler	Altbundeskanzler
+Alter	Alter
 Altersgenosse	Altersgenossen
 Altkanzler	Altkanzler
 Altmeister	Altmeister
@@ -156,6 +161,8 @@ Anfangsverdacht	Anfangsverdachte	Anfangsverdächte
 Anflug	Anflüge
 Anfänger	Anfänger
 Anführer	Anführer
+Angeber	Angeber
+Angehörige	Angehörigen
 Angelpunkt	Angelpunkte
 Anger	Anger
 Angler	Angler
@@ -167,6 +174,7 @@ Anhaltspunkt	Anhaltspunkte
 Anhang	Anhänge
 Anhänger	Anhänger
 Ankauf	Ankäufe
+Anker	Anker
 Anklagepunkt	Anklagepunkte
 Anklang	Anklänge
 Ankläger	Ankläger
@@ -270,6 +278,7 @@ Argwohn	—
 Arm	Arme
 Armeechef	Armeechefs
 Armenier	Armenier
+Arrest	Arreste
 Arsch	Ärsche
 Artenschutz	—
 Artgenosse	Artgenossen
@@ -353,6 +362,7 @@ Augenblick	Augenblicke
 Augenschein	—
 Augenzeuge	Augenzeugen
 Augenzeugenbericht	Augenzeugenberichte
+August	Auguste
 Auktionator	Auktionatoren
 Ausbau	Ausbauten	Ausbaue
 Ausbauplan	Ausbaupläne
@@ -362,6 +372,7 @@ Ausbildungsbetrieb	Ausbildungsbetriebe
 Ausbildungsplatz	Ausbildungsplätze
 Ausblick	Ausblicke
 Ausbruch	Ausbrüche
+Ausdruck	Ausdrücke
 Ausfall	Ausfälle
 Ausflug	Ausflüge
 Ausgabepreis	Ausgabepreise
@@ -429,6 +440,7 @@ Autozulieferer	Autozulieferer
 Avantgardist	Avantgardisten
 Azur	—
 Babysitter	Babysitter
+Bach	Bäche
 Bachelor	Bachelors
 Backen	Backen
 Backofen	Backöfen
@@ -450,6 +462,7 @@ Balanceakt	Balanceakte
 Balkan	—
 Balken	Balken
 Balkon	Balkons	Balkone
+Ball	Bälle
 Ballast	Ballaste
 Ballon	Ballons
 Ballsaal	Ballsäle
@@ -505,6 +518,7 @@ Bauboom	Baubooms
 Bauch	Bäuche
 Bauchschmerz	Bauchschmerzen
 Baudezernent	Baudezernenten
+Bauer	Bauern
 Bauernhof	Bauernhöfe
 Bauernverband	Bauernverbände
 Baugrund	Baugründe
@@ -535,6 +549,7 @@ Bauzaun	Bauzäune
 Bayer	Bayern
 Beach	Beaches
 Beachvolleyball	Beachvolleybälle
+Beamte	Beamten
 Beamtenbund	Beamtenbünde
 Beatle	Beatles
 Bebauungsplan	Bebauungspläne
@@ -571,6 +586,7 @@ Belag	Beläge
 Belang	Belange
 Beleg	Belege
 Belgier	Belgier
+Bengel	Bengel
 Benutzer	Benutzer
 Benziner	Benziner
 Benzinmotor	Benzinmotoren
@@ -581,6 +597,7 @@ Berber	Berber
 Bereich	Bereiche
 Bereichsleiter	Bereichsleiter
 Bereitschaftsdienst	Bereitschaftsdienste
+Berg	Berge
 Bergarbeiter	Bergarbeiter
 Bergbau	—
 Bergbauer	Bergbauern
@@ -705,6 +722,7 @@ Bluterguss	Blutergüsse
 Bluthochdruck	—
 Bluttest	Bluttests	Blutteste
 Bobby	Bobbys
+Bock	Böcke
 Boden	Böden
 Bodenbelag	Bodenbeläge
 Bodensee	—
@@ -738,6 +756,7 @@ Boxkampf	Boxkämpfe
 Boy	Boys
 Boykott	Boykotts	Boykotte
 Branchenprimus	Branchenprimusse	Branchenprimi
+Brand	Branden
 Brandanschlag	Brandanschläge
 Brandherd	Brandherde
 Brandsatz	Brandsätze
@@ -761,8 +780,10 @@ Briefkasten	Briefkästen
 Briefwechsel	Briefwechsel
 Brink	Brinke
 Brite	Briten
+Brocken	Brocken
 Broker	Broker
 Browser	Browser
+Bruch	Brüche
 Bruchteil	Bruchteile
 Bruder	Brüder
 Brunch	Brunchs
@@ -792,7 +813,9 @@ Buhmann	Buhmänner
 Buhruf	Buhrufe
 Bulgare	Bulgaren
 Bulldozer	Bulldozer
+Bulle	Bullen
 Bumerang	Bumerangs	Bumerange
+Bund	Bünde
 Bundesanwalt	Bundesanwälte
 Bundesarbeitsminister	Bundesarbeitsminister
 Bundesdurchschnitt	—
@@ -853,6 +876,7 @@ Canyon	Canyons
 Caravan	Caravans
 Carrier	Carriers
 Cartoon	Cartoons
+Casanova	Casanovas
 Cellist	Cellisten
 Cent	Centen
 Chairman	Chairmen
@@ -886,10 +910,12 @@ Chinese	Chinesen
 Chip	Chips
 Chiphersteller	Chiphersteller
 Chirurg	Chirurgen
+Chor	Chore
 Choral	Choräle
 Chorgesang	Chorgesänge
 Chorherr	Chorherren
 Chorleiter	Chorleiter
+Christ	Christen
 Christbaum	Christbäume
 Christdemokrat	Christdemokraten
 Christkindlmarkt	Christkindlmärkte
@@ -1113,6 +1139,7 @@ Durchmesser	Durchmesser
 Durchschnitt	Durchschnitte
 Durchschnittspreis	Durchschnittspreise
 Durchschnittswert	Durchschnittswerte
+Durchsuchungsbefehl	Durchsuchungsbefehle
 Durst	—
 Dynamo	Dynamos
 Dämon	Dämonen
@@ -1212,6 +1239,7 @@ Eishockeyspieler	Eishockeyspieler
 Eiskunstlauf	—
 Eislauf	—
 Eiswürfel	Eiswürfel
+Ekel	—
 Eklat	Eklats
 Elan	—
 Elch	Elche
@@ -1328,6 +1356,7 @@ Eurotunnel	—
 Evangelist	Evangelisten
 Event	Events
 Evergreen	Evergreens
+Ex	Ex	Ex
 Exhibitionist	Exhibitionisten
 Exkurs	Exkurse
 Exodus	Exodusse
@@ -1375,6 +1404,7 @@ Fakt	Fakten	Fakts
 Faktor	Faktoren
 Falke	Falken
 Falkner	Falkner
+Fall	Fälle
 Fallschirm	Fallschirme
 Fallschirmjäger	Fallschirmjäger
 Fallschirmspringer	Fallschirmspringer
@@ -1603,6 +1633,7 @@ Fremdenverkehr	Fremdenverkehre
 Freund	Freunde
 Freundeskreis	Freundeskreise
 Friede	Frieden
+Frieden	Frieden
 Friedensnobelpreis	Friedensnobelpreise
 Friedensplan	Friedenspläne
 Friedenspreis	Friedenspreise
@@ -1628,6 +1659,7 @@ Fundamentalist	Fundamentalisten
 Fundort	Fundorte
 Fundus	—
 Funke	Funken
+Funken	Funken
 Funkturm	Funktürme
 Fuß	Füße
 Fußabdruck	Fußabdrücke
@@ -1643,6 +1675,7 @@ Galerist	Galeristen
 Galgen	Galgen
 Galopp	Galopps	Galoppe
 Gams	GamsdieGamsen
+Gang	Gänge
 Gangster	Gangster
 Ganove	Ganoven
 Garant	Garanten
@@ -1654,6 +1687,7 @@ Gartenfreund	Gartenfreunde
 Gartenzaun	Gartenzäune
 Gartenzwerg	Gartenzwerge
 Gaspreis	Gaspreise
+Gast	Gäste
 Gastarbeiter	Gastarbeiter
 Gastgeber	Gastgeber
 Gasthof	Gasthöfe
@@ -1671,6 +1705,7 @@ Gaumen	Gaumen
 Gauner	Gauner
 Gebauer	Gebauer
 Geber	Geber
+Gebieter	Gebieter
 Gebrauch	Gebräuche
 Gebrauchsgegenstand	Gebrauchsgegenstände
 Gebrauchtwagen	Gebrauchtwagen
@@ -1683,6 +1718,7 @@ Gedenkstein	Gedenksteine
 Gedenktag	Gedenktage
 Gedichtband	Gedichtbände
 Gedächtnisverlust	Gedächtnisverluste
+Gefallen	Gefallen
 Gefrierpunkt	Gefrierpunkte
 Gefährte	Gefährten
 Gegenangriff	Gegenangriffe
@@ -1701,6 +1737,7 @@ Gegenwert	Gegenwerte
 Gegenwind	—
 Gegenzug	Gegenzüge
 Gegner	Gegner
+Gehalt	Gehalte
 Geheimdienst	Geheimdienste
 Geheimdienstchef	Geheimdienstchefs
 Geheimdienstler	Geheimdienstler
@@ -1712,6 +1749,7 @@ Gehweg	Gehwege
 Geier	Geier
 Geiger	Geiger
 Geiselnehmer	Geiselnehmer
+Geist	Geisten
 Geisterfahrer	Geisterfahrer
 Geiz	Geize
 Geldautomat	Geldautomaten
@@ -1805,6 +1843,7 @@ Gesundheitsminister	Gesundheitsminister
 Gesundheitsschaden	Gesundheitsschäden
 Gesundheitsschutz	—
 Gesundheitszustand	Gesundheitszustände
+Gewahrsam	—
 Gewaltakt	Gewaltakte
 Gewaltverzicht	Gewaltverzichte
 Gewerbebetrieb	Gewerbebetriebe
@@ -1822,6 +1861,7 @@ Gewinner	Gewinner
 Giftstoff	Giftstoffe
 Gigant	Giganten
 Gin	Gins
+Gipfel	Gipfel
 Gips	Gipse
 Gitarrist	Gitarristen
 Gladiator	Gladiatoren
@@ -1863,6 +1903,7 @@ Grabräuber	Grabräuber
 Grabstein	Grabsteine
 Grad	Grade
 Gradmesser	Gradmesser
+Graf	Grafen
 Graffito	Graffiti
 Grafiker	Grafiker
 Gram	—
@@ -1911,6 +1952,7 @@ Guerillero	Guerilleros
 Guide	Guides
 Gulasch	Gulasche	Gulaschs
 Gulden	Gulden
+Gummi	Gummis
 Gummistiefel	Gummistiefel
 Gun	Guns
 Gurt	Gurte
@@ -1932,6 +1974,7 @@ Haberer	Haberer
 Habitus	—
 Hack	Hacks
 Hacker	Hacker
+Hafen	Häfen
 Haftbefehl	Haftbefehle
 Haftrichter	Haftrichter
 Hag	Hage
@@ -1946,9 +1989,11 @@ Halbleiter	Halbleiter
 Halbmarathon	Halbmarathons
 Halbmond	Halbmonde
 Haller	Haller
+Hals	Hälse
 Halt	Halte	Halts
 Haltepunkt	Haltepunkte
 Halter	Halter
+Hamburger	Hamburger
 Hammer	Hämmer
 Hamster	Hamster
 Han	Hane	Hans
@@ -2021,6 +2066,7 @@ Hauser	Hausers	Hauser
 Hausflur	Hausflure
 Hausfriedensbruch	Hausfriedensbrüche
 Haushalt	Haushalte
+Haushalter	Haushalter
 Haushaltsausschuss	Haushaltsausschüsse
 Haushaltsentwurf	Haushaltsentwürfe
 Haushaltsexperte	Haushaltsexperten
@@ -2030,6 +2076,7 @@ Hausmann	Hausmänner
 Hausmeister	Hausmeister
 Hausrat	—
 Hautkrebs	Hautkrebse
+Hebel	Hebel
 Heber	Heber
 Hecht	Hechte
 Heiland	Heilanden
@@ -2067,6 +2114,7 @@ Herrscher	Herrscher
 Hersteller	Hersteller
 Herzanfall	Herzanfälle
 Herzinfarkt	Herzinfarkte
+Herzog	Herzöge
 Herzschlag	Herzschläge
 Hexenkessel	Hexenkessel
 Hickhack	Hickhacks
@@ -2256,6 +2304,7 @@ Irakkrieg	Irakkriege
 Iran	—
 Iraner	Iraner
 Ire	Iren
+Irre	Irren
 Irrsinn	—
 Irrtum	Irrtümer
 Irrweg	Irrwege
@@ -2281,6 +2330,7 @@ Jahrmarkt	Jahrmärkte
 Jahrtausendwechsel	Jahrtausendwechsel
 Jammer	—
 Januar	Januare
+Japaner	Japaner
 Jargon	Jargons
 Jasmin	Jasmine
 Jazz	—
@@ -2290,6 +2340,8 @@ Jeep	Jeeps
 Jemen	—
 Jerez	—
 Jesuit	Jesuiten
+Jet	Jets
+Job	Jobs
 Jockey	Jockeys
 Jodler	Jodler
 Jogger	Jogger
@@ -2330,6 +2382,7 @@ Juror	Juroren
 Justizminister	Justizminister
 Justizsenator	Justizsenatoren
 Justizsprecher	Justizsprecher
+Juwel	Juwele
 Juwelier	Juweliere
 Jux	Juxe
 Jäger	Jäger
@@ -2342,10 +2395,12 @@ Kadi	Kadis
 Kaffee	Kaffeen
 Kahlschlag	Kahlschläge
 Kahn	Kähne
+Kai	Kais
 Kaiser	Kaiser
 Kaiserschnitt	Kaiserschnitte
 Kajak	Kajaks
 Kakao	Kakaos
+Kakerlak	Kakerlaken
 Kaktus	Kakteen
 Kalender	Kalender
 Kalif	Kalifen
@@ -2408,6 +2463,7 @@ Katalane	Katalanen
 Katalog	Kataloge
 Katalysator	Katalysatoren
 Katastrophenschutz	—
+Kater	Kater
 Katholik	Katholiken
 Katholizismus	—
 Katzenjammer	—
@@ -2440,6 +2496,7 @@ Kessel	Kessel
 Ketchup	Ketchups
 Keyboarder	Keyboarder
 Khan	Khane
+Kick	Kicks
 Kicker	Kicker
 Kidnapper	Kidnapper
 Kies	Kiese
@@ -2480,6 +2537,7 @@ Kirsch	Kirsch
 Kitt	Kitte
 Kittel	Kittel
 Klamauk	—
+Klan	Klane
 Klang	Klänge
 Klarinettist	Klarinettisten
 Klartext	Klartexte
@@ -2541,6 +2599,7 @@ Koalitionspartner	Koalitionspartner
 Koalitionsvertrag	Koalitionsverträge
 Kober	Kober
 Kobold	Kobolde
+Koch	Köche
 Kochtopf	Kochtöpfe
 Kodex	Kodexe	Kodizes
 Koffer	Koffer
@@ -2548,6 +2607,7 @@ Kofferraum	Kofferräume
 Kohl	Kohle
 Kohlenstoff	—
 Kohlenwasserstoff	Kohlenwasserstoffe
+Koks	—
 Kollaborateur	Kollaborateure
 Kollaps	Kollapse
 Kollege	Kollegen
@@ -2851,6 +2911,7 @@ Laptop	Laptops
 Laser	Laser
 Laserstrahl	Laserstrahlen
 Lastenausgleich	—
+Laster	Laster
 Lastkraftwagen	Lastkraftwagen	Lastkraftwägen
 Lastwagen	Lastwagen
 Lastwagenfahrer	Lastwagenfahrer
@@ -2942,6 +3003,7 @@ Liefervertrag	Lieferverträge
 Lieferwagen	Lieferwagen
 Liegestuhl	Liegestühle
 Lifestyle	Lifestyles
+Lift	Lifte
 Ligist	Ligisten
 Likör	Liköre
 Limes	Limes	Limites
@@ -2961,6 +3023,7 @@ Literaturpreis	Literaturpreise
 Literaturwissenschaftler	Literaturwissenschaftler
 Live	Liven
 Lizenznehmer	Lizenznehmer
+Lkw	—
 Lloyd	—
 Lobbyist	Lobbyisten
 Locher	Locher
@@ -2991,6 +3054,7 @@ Luftraum	Lufträume
 Luftschlag	Luftschläge
 Luftverkehr	Luftverkehre
 Lummer	Lummer
+Lump	Lumpen
 Lunch	Lunchs
 Lungenkrebs	Lungenkrebse
 Lustgarten	Lustgärten
@@ -3034,6 +3098,7 @@ Manager	Manager
 Mandant	Mandanten
 Mandatar	Mandatare
 Mangold	Mangolde
+Mann	Männer
 Manndecker	Manndecker
 Mannequin	Mannequins
 Mannschaftskollege	Mannschaftskollegen
@@ -3054,6 +3119,7 @@ Marktwert	Marktwerte
 Marmor	Marmore
 Marokkaner	Marokkaner
 Marquis	Marquis
+Marsch	Märsche
 Marschall	Marschälle
 Marxismus	—
 Marxist	Marxisten
@@ -3110,6 +3176,7 @@ Meinungsforscher	Meinungsforscher
 Meister	Meister
 Meistersinger	Meistersinger
 Meistertitel	Meistertitel
+Mensch	Menschen
 Menschenhandel	—
 Menschenrechtler	Menschenrechtler
 Menschenverstand	—
@@ -3164,6 +3231,7 @@ Missionar	Missionare
 Misskredit	—
 Missstand	Missstände
 Misstrauensantrag	Misstrauensanträge
+Mist	Misten
 Mitarbeiter	Mitarbeiter
 Mitbewerber	Mitbewerber
 Mitbewohner	Mitbewohner
@@ -3176,6 +3244,7 @@ Mitherausgeber	Mitherausgeber
 Mitmensch	Mitmenschen
 Mitspieler	Mitspieler
 Mitstreiter	Mitstreiter
+Mittag	Mittage
 Mittagstisch	Mittagstische
 Mittelbau	Mittelbauten	Mittelbaue
 Mittelbetrieb	Mittelbetriebe
@@ -3230,6 +3299,7 @@ Mordfall	Mordfälle
 Mordprozess	Mordprozesse
 Mordverdacht	—
 Mordversuch	Mordversuche
+Morgen	Morgen
 Morgenstern	Morgensterne
 Moskito	Moskitos
 Moslem	Moslems
@@ -3302,6 +3372,7 @@ Nagel	Nägel
 Nager	Nager
 Nahverkehr	Nahverkehre
 Nahversorger	Nahversorger
+Name	Namen
 Namensgeber	Namensgeber
 Namenstag	Namenstage
 Namensvetter	Namensvettern
@@ -3378,6 +3449,7 @@ Nix	Nixe
 Nobelpreis	Nobelpreise
 Nomade	Nomaden
 Nonsens	—
+Nord	Norde
 Norden	—
 Nordkoreaner	Nordkoreaner
 Nordosten	—
@@ -3405,6 +3477,7 @@ Nussbaum	Nussbäume
 Nutzen	Nutzen
 Nutzer	Nutzer
 Ob	—
+Ober	Ober
 Oberarm	Oberarme
 Oberarzt	Oberärzte
 Oberbefehlshaber	Oberbefehlshaber
@@ -3459,6 +3532,7 @@ Orient	—
 Originaltitel	Originaltitel
 Orkan	Orkane
 Orlean	—
+Ort	Orte
 Ortsbeirat	Ortsbeiräte
 Ortschef	Ortschefs
 Ortseingang	Ortseingänge
@@ -3491,9 +3565,11 @@ Pakt	Pakte
 Palast	Paläste
 Palazzo	Palazzi
 Palmengarten	Palmengärten
+Panama	Panamas
 Panda	Pandas
 Panther	Panther
 Panzer	Panzer
+Papa	Papas
 Papagei	Papageis
 Papi	Papis
 Papierkorb	Papierkörbe
@@ -3506,6 +3582,7 @@ Parameter	Parameter
 Parasit	Parasiten
 Parcours	Parcours
 Pardon	—
+Pariser	Pariser
 Park	Parks
 Parker	Parker
 Parkplatz	Parkplätze
@@ -3534,6 +3611,7 @@ Pater	Patres
 Patient	Patienten
 Patriarch	Patriarchen
 Patriotismus	Patriotismen
+Patron	Patrone
 Patzer	Patzer
 Paukenschlag	Paukenschläge
 Pavillon	Pavillons
@@ -3608,9 +3686,11 @@ Pianist	Pianisten
 Pichler	Pichlers	Pichler
 Pickel	Pickel
 Pieper	Pieper
+Pier	Piere
 Pietsch	Pietsche
 Pilger	Pilger
 Piller	Piller
+Pilot	Piloten
 Pilotversuch	Pilotversuche
 Pilz	Pilze
 Pin	Pins
@@ -3619,6 +3699,7 @@ Pinselstrich	Pinselstriche
 Pionier	Pioniere
 Pirat	Piraten
 Pitbull	Pitbulls
+Plan	Pläne
 Planer	Planer
 Planet	Planeten
 Planfeststellungsbeschluss	Planfeststellungsbeschlüsse
@@ -3662,6 +3743,7 @@ Poller	Poller
 Polster	Polster
 Pommer	Pommer
 Pomp	—
+Pony	Ponys
 Pop	—
 Popsong	Popsongs
 Popstar	Popstars
@@ -3772,6 +3854,7 @@ Publikumsliebling	Publikumslieblinge
 Publikumsmagnet	Publikumsmagnete	Publikumsmagneten
 Publizist	Publizisten
 Puck	Pucks
+Pudding	Puddinge
 Pudel	Pudel
 Puffer	Puffer
 Pulli	Pullis
@@ -3824,6 +3907,7 @@ Rain	Raine
 Raketenangriff	Raketenangriffe
 Ramadan	Ramadane
 Rambo	Rambos
+Rand	Randen
 Randal	Randale
 Randalierer	Randalierer
 Rang	Ränge
@@ -3904,6 +3988,7 @@ Reformstaat	Reformstaaten
 Reformvorschlag	Reformvorschläge
 Refrain	Refrains
 Regelfall	Regelfälle
+Regen	Regen	Regen
 Regenbogen	Regenbogen
 Regenfall	Regenfälle
 Regenguss	Regengüsse
@@ -3987,6 +4072,7 @@ Richterspruch	Richtersprüche
 Richtwert	Richtwerte
 Riegel	Riegel
 Riemer	Riemer
+Riese	Riesen
 Riesenerfolg	Riesenerfolge
 Riesenslalom	Riesenslaloms
 Riesenspaß	Riesenspäße
@@ -4007,6 +4093,7 @@ Rivale	Rivalen
 Roadster	Roadster
 Robinson	Robinsons
 Roboter	Roboter
+Rock	Röcke
 Rocker	Rocker
 Rockmusiker	Rockmusiker
 Rockstar	Rockstare
@@ -4084,11 +4171,13 @@ Saisontreffer	Saisontreffer
 Sakko	Sakkos
 Salamander	Salamander
 Salami	Salamis
+Salat	Salate
 Saldo	Salden	Saldos	Saldi
 Salon	Salons
 Salto	Saltos
 Samariter	Samariter
 Samba	Sambas
+Same	Samen
 Samen	Samen
 Sammelband	Sammelbände
 Sammler	Sammler
@@ -4159,6 +4248,7 @@ Schauplatz	Schauplätze
 Schauprozess	Schauprozesse
 Schauspieler	Schauspieler
 Schausteller	Schausteller
+Scheck	Schecks
 Scheibenwischer	Scheibenwischer
 Scheich	Scheichs	Scheiche
 Scheideweg	Scheidewege
@@ -4175,6 +4265,7 @@ Scherben	—
 Scherbenhaufen	Scherbenhaufen
 Scherer	Scherers	Scherer
 Scherge	Schergen
+Scherz	Scherze
 Schicksalsschlag	Schicksalsschläge
 Schieber	Schieber
 Schiedsrichter	Schiedsrichter
@@ -4185,6 +4276,7 @@ Schiffbruch	Schiffbrüche
 Schiffer	Schiffer
 Schiit	Schiiten
 Schilcher	Schilcher
+Schild	Schilde
 Schill	Schille
 Schilling	Schilling	Schillinge
 Schimmel	Schimmel
@@ -4268,6 +4360,7 @@ Schober	Schober
 Schopf	Schöpfe
 Schornstein	Schornsteine
 Schotter	Schotter
+Schrank	Schränke
 Schranz	Schränze
 Schraubenschlüssel	Schraubenschlüssel
 Schrebergarten	Schrebergärten
@@ -4328,6 +4421,7 @@ Schutzpatron	Schutzpatrone
 Schutzraum	Schutzräume
 Schutzschild	Schutzschilde
 Schutzwall	Schutzwälle
+Schwachkopf	Schwachköpfe
 Schwachpunkt	Schwachpunkte
 Schwachsinn	—
 Schwager	Schwäger
@@ -4346,6 +4440,7 @@ Schwarzwald	—
 Schwede	Schweden
 Schwefel	—
 Schweiger	Schweiger
+Schweizer	Schweizer
 Schwerpunkt	Schwerpunkte
 Schwertkämpfer	Schwertkämpfer
 Schwerverbrecher	Schwerverbrecher
@@ -4355,6 +4450,7 @@ Schwiegervater	Schwiegerväter
 Schwierigkeitsgrad	Schwierigkeitsgrade
 Schwimmer	Schwimmer
 Schwindel	Schwindel
+Schwindler	Schwindler
 Schwinger	Schwinger
 Schwund	—
 Schwung	Schwünge
@@ -4374,6 +4470,7 @@ Screen	Screens
 Sechser	Sechser
 Sechstel	Sechstel
 Sechszylinder	Sechszylinder
+See	Seen
 Seefahrer	Seefahrer
 Seehund	Seehunde
 Seelsorger	Seelsorger
@@ -4715,6 +4812,7 @@ Stammsitz	Stammsitze
 Stammspieler	Stammspieler
 Stammtisch	Stammtische
 Stand	Stände
+Standard	Standards
 Standardwert	Standardwerte
 Standort	Standorte
 Standortfaktor	Standortfaktoren
@@ -4722,6 +4820,7 @@ Standortvorteil	Standortvorteile
 Standplatz	Standplätze
 Standpunkt	Standpunkte
 Stapel	Stapel
+Star	Stare
 Stargast	Stargäste
 Start	Starts
 Starter	Starter
@@ -4777,12 +4876,14 @@ Stiefel	Stiefel
 Stiefvater	Stiefväter
 Stiel	Stiele
 Stier	Stiere
+Stift	Stifte
 Stiftungsrat	Stiftungsräte
 Stil	Stile
 Stillstand	Stillstände
 Stimmenanteil	Stimmenanteile
 Stimmzettel	Stimmzettel
 Stipendiat	Stipendiaten
+Stock	Stöcke
 Stoff	Stoffe
 Stoffwechsel	Stoffwechsel
 Stollen	Stollen
@@ -4828,6 +4929,7 @@ Streitpunkt	Streitpunkte
 Stress	Stresse
 Streubesitz	Streubesitze
 Strich	Striche
+Strick	Stricke
 Stricker	Stricker
 Strip	Strips
 Striptease	-
@@ -4898,6 +5000,7 @@ Tabakkonzern	Tabakkonzerne
 Tabellenplatz	Tabellenplätze
 Tabubruch	Tabubrüche
 Tadel	Tadel
+Tag	Tage
 Tagebau	Tagebaue
 Tagesablauf	Tagesabläufe
 Tagesausflug	Tagesausflüge
@@ -4909,6 +5012,7 @@ Tagesverlauf	Tagesverläufe
 Tagungsort	Tagungsorte
 Taifun	Taifune
 Take	Takes
+Takt	Takte
 Taktiker	Taktiker
 Taler	Taler
 Tamile	Tamilen
@@ -4956,6 +5060,7 @@ Technologiepark	Technologieparks
 Technologiewert	Technologiewerte
 Teddy	Teddys
 Teddybär	Teddybären
+Tee	Teen
 Teenager	Teenager
 Teenie	Teenies
 Teich	Teiche
@@ -4979,6 +5084,7 @@ Teppich	Teppiche
 Teppichboden	Teppichböden
 Term	Terme
 Termin	Termine
+Terminal	Terminals
 Terminator	Terminatoren
 Terminkalender	Terminkalender
 Terminplan	Terminpläne
@@ -4995,6 +5101,7 @@ Testlauf	Testläufe
 Teufel	Teufel
 Teufelskreis	Teufelskreise
 Texaner	Texaner
+Text	Texte
 Texter	Texter
 Theaterabend	Theaterabende
 Theatermacher	Theatermacher
@@ -5030,6 +5137,7 @@ Tierschutzverein	Tierschutzvereine
 Tierversuch	Tierversuche
 Tiger	Tiger
 Tip	Tips
+Tipp	Tipps
 Tisch	Tische
 Tischler	Tischler
 Titel	Titel
@@ -5038,11 +5146,13 @@ Titelgewinn	Titelgewinne
 Titelheld	Titelhelden
 Titelkampf	Titelkämpfe
 Titelverteidiger	Titelverteidiger
+Toast	Toaste
 Tobel	Tobel
 Tod	Tode
 Todesfall	Todesfälle
 Todesschuss	Todesschüsse
 Todestag	Todestage
+Ton	Töne
 Tonfall	Tonfälle
 Tony	Tonys
 Topf	Töpfe
@@ -5109,6 +5219,7 @@ Trend	Trends
 Trendsetter	Trendsetter
 Tresen	Tresen
 Tresor	Tresore
+Tresorraum	Tresorräume
 Triathlet	Triathleten
 Triathlon	Triathlons
 Tribut	Tribute
@@ -5139,6 +5250,7 @@ Trunk	Trünke
 Trupp	Trupps
 Truppenabzug	Truppenabzüge
 Trust	Trusts	Truste
+Truthahn	Truthähne
 Träger	Träger
 Träumer	Träumer
 Tscheche	Tschechen
@@ -5423,6 +5535,7 @@ Vollbart	Vollbärte
 Volley	Volleys
 Volleyball	Volleybälle
 Volleyballer	Volleyballer
+Vollidiot	Vollidioten
 Vollmond	Vollmonde
 Vollstrecker	Vollstrecker
 Volltreffer	Volltreffer
@@ -5435,10 +5548,12 @@ Vordenker	Vordenker
 Vordergrund	Vordergründe
 Vordermann	Vordermänner	Vorderleute
 Vorfahr	Vorfahren
+Vorfahre	Vorfahren
 Vorfall	Vorfälle
 Vorgang	Vorgänge
 Vorgarten	Vorgärten
 Vorgeschmack	—
+Vorgesetzte	Vorgesetzten
 Vorgriff	Vorgriffe
 Vorgänger	Vorgänger
 Vorhang	Vorhänge
@@ -5480,11 +5595,13 @@ Vorverkauf	Vorverkäufe
 Vorwand	Vorwanden
 Vorwurf	Vorwürfe
 Voyeurismus	—
+Vulkan	Vulkane
 Vulkanausbruch	Vulkanausbrüche
 Völkermord	Völkermorde
 Wachdienst	Wachdienste
 Wachmann	Wachleute
 Wachstumsmarkt	Wachstumsmärkte
+Wachtmeister	Wachtmeister
 Waffenbesitz	Waffenbesitze
 Waffenhandel	—
 Waffenhändler	Waffenhändler
@@ -5618,6 +5735,7 @@ Werkvertrag	Werkverträge
 Wermutstropfen	Wermutstropfen
 Wert	Werte
 Wertgegenstand	Wertgegenstände
+West	Weste
 Westen	—
 Western	Western
 Westerwald	—
@@ -5646,6 +5764,7 @@ Widersacher	Widersacher
 Widerspruch	Widersprüche
 Widerstand	Widerstanden
 Wiederaufbau	Wiederaufbaus
+Wiener	Wiener
 Wienerwald	—
 Wikinger	Wikinger
 Wildbach	Wildbäche
@@ -5653,6 +5772,7 @@ Wilderer	Wilderer
 Wildpark	Wildparks	Wildparke
 Wildwuchs	Wildwüchse
 Wille	Willen
+Willen	Willen
 Wind	Winde
 Windpark	Windparks	Windparke	Windpärke
 Windschatten	Windschatten
@@ -5727,6 +5847,7 @@ Wunschkandidat	Wunschkandidaten
 Wunschtraum	Wunschträume
 Wunschzettel	Wunschzettel
 Wurf	Würfe
+Wurm	Würmer
 Wust	—
 Wähler	Wähler
 Wäschekorb	Wäschekörbe
@@ -5797,6 +5918,7 @@ Zielort	Zielorte
 Ziemer	Ziemer
 Zigeuner	Zigeuner
 Zimmermann	Zimmerleute
+Zimmerservice	Zimmerservices
 Zimt	Zimte
 Zins	Zinsen	Zinse
 Zinsertrag	Zinserträge
@@ -5812,6 +5934,7 @@ Zivilist	Zivilisten
 Zivilprozess	Zivilprozesse
 Zivilschutz	—
 Zoff	—
+Zoll	Zölle
 Zoo	Zoos
 Zoologe	Zoologen
 Zopf	Zöpfe
@@ -5822,6 +5945,7 @@ Zubringer	Zubringer
 Zucker	Zucker
 Zufall	Zufälle
 Zufluss	Zuflüsse
+Zug	Züge
 Zugang	Zugänge
 Zugewinn	Zugewinne
 Zugführer	Zugführer

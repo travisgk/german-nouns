@@ -37,6 +37,7 @@ Abnahme	Abnahmen
 Abneigung	Abneigungen
 Abordnung	Abordnungen
 Abrechnung	Abrechnungen
+Abreise	Abreisen
 Abschaffung	Abschaffungen
 Abschaltung	Abschaltungen
 Abschiebehaft	—
@@ -66,6 +67,7 @@ Abtreibung	Abtreibungen
 Abtreibungspille	Abtreibungspillen
 Abwahl	Abwahlen
 Abwanderung	Abwanderungen
+Abwechslung	Abwechslungen
 Abwehr	—
 Abweichung	Abweichungen
 Abwertung	Abwertungen
@@ -193,6 +195,7 @@ Angeklagte	Angeklagten
 Angel	Angeln
 Angelegenheit	Angelegenheiten
 Angestellte	Angestellten
+Angewohnheit	Angewohnheiten
 Angleichung	Angleichungen
 Angst	Ängste
 Anhebung	Anhebungen
@@ -347,6 +350,7 @@ Atomkraft	Atomkräfte
 Atommacht	Atommächte
 Atompolitik	—
 Atomwaffe	Atomwaffen
+Attacke	Attacken
 Attrappe	Attrappen
 Audienz	Audienzen
 Aufarbeitung	Aufarbeitungen
@@ -396,6 +400,7 @@ Aufwendung	Aufwendungen
 Aufwertung	Aufwertungen
 Aufzeichnung	Aufzeichnungen
 Aufzucht	Aufzuchten
+Aufzug	Aufzüge
 Augenbraue	Augenbrauen
 Augenweide	Augenweiden
 Auktion	Auktionen
@@ -493,6 +498,7 @@ Automation	Automationen
 Automatisierung	Automatisierungen
 Automobilindustrie	Automobilindustrien
 Autonomie	Autonomien
+Autopsie	Autopsien
 Autorin	Autorinnen
 Autorität	Autoritäten
 Autostunde	Autostunden
@@ -513,6 +519,7 @@ Ballade	Balladen
 Banane	Bananen
 Bandage	Bandagen
 Bandbreite	Bandbreiten
+Bande	Banden
 Bange	—
 Banja	Banjas
 Bankenaufsicht	Bankenaufsichten
@@ -520,11 +527,13 @@ Bankengruppe	Bankengruppen
 Bankfiliale	Bankfilialen
 Bankgesellschaft	Bankgesellschaften
 Banknote	Banknoten
+Bar	Bars
 Baracke	Baracken
 Barbarei	Barbareien
 Barmherzigkeit	—
 Barriere	Barrieren
 Barrikade	Barrikaden
+Base	Basen
 Basilika	Basiliken
 Basis	Basen
 Bastille	Bastillen
@@ -574,6 +583,7 @@ Bedeutungslosigkeit	Bedeutungslosigkeiten
 Bedienung	Bedienungen
 Bedingung	Bedingungen
 Bedrohung	Bedrohungen
+Beeilung	Beeilungen
 Beeinflussung	Beeinflussungen
 Beendigung	Beendigungen
 Beerdigung	Beerdigungen
@@ -770,8 +780,10 @@ Betriebswirtschaftslehre	—
 Betroffenheit	Betroffenheiten
 Bettwäsche	Bettwäschen
 Betäubung	Betäubungen
+Beule	Beulen
 Beunruhigung	Beunruhigungen
 Beurteilung	Beurteilungen
+Beute	Beuten
 Beutekunst	—
 Bevormundung	Bevormundungen
 Bevorzugung	Bevorzugungen
@@ -918,6 +930,7 @@ Broschüre	Broschüren
 Bruchlandung	Bruchlandungen
 Bruderschaft	Bruderschaften
 Brunst	Brünste
+Brust	Brüste
 Brut	Bruten
 Brutalität	Brutalitäten
 Bräune	Bräunen
@@ -998,6 +1011,7 @@ Chemotherapie	Chemotherapien
 Chiffre	Chiffren
 Chinesin	Chinesinnen
 Chipkarte	Chipkarten
+Chirurg	Chirurgen
 Chirurgie	Chirurgien
 Cholera	—
 Choreografie	Choreografien
@@ -1016,6 +1030,7 @@ Compagnie	Compagnien
 Computerfirma	Computerfirmen
 Computersimulation	Computersimulationen
 Computertechnik	Computertechniken
+Couch	Couches
 Couleur	Couleurs	Couleuren
 County	Countys
 Courage	Couragen
@@ -1183,6 +1198,7 @@ Dunkelziffer	Dunkelziffern
 Durchblutung	Durchblutungen
 Durchfahrt	Durchfahrten
 Durchführung	Durchführungen
+Durchsage	Durchsagen
 Durchschlagskraft	Durchschlagskräfte
 Durchsetzung	—
 Durchsicht	Durchsichten
@@ -1233,6 +1249,7 @@ Eignung	Eignungen
 Eile	—
 Einberufung	Einberufungen
 Einbeziehung	Einbeziehungen
+Einbildung	Einbildungen
 Einbindung	Einbindungen
 Einbringung	Einbringungen
 Eindeutigkeit	Eindeutigkeiten
@@ -1259,6 +1276,7 @@ Einkehr	—
 Einkommensgrenze	Einkommensgrenzen
 Einkommenssteuer	Einkommenssteuern
 Einkommensteuer	Einkommensteuern
+Einladung	Einladungen
 Einlage	Einlagen
 Einlassung	Einlassungen
 Einleitung	Einleitungen
@@ -1338,6 +1356,7 @@ Elektrotechnik	—
 Elfe	Elfen
 Elite	Eliten
 Elle	Ellen
+Eltern	—
 Elterninitiative	Elterninitiativen
 Emanzipation	Emanzipationen
 Emigration	Emigrationen
@@ -1511,6 +1530,7 @@ Eröffnung	Eröffnungen
 Esche	Eschen
 Eskalation	Eskalationen
 Eskapade	Eskapaden
+Eskorte	Eskorten
 Esoterik	—
 Essenz	Essenzen
 Etablierung	Etablierungen
@@ -1600,6 +1620,7 @@ Familienplanung	Familienplanungen
 Familienpolitik	Familienpolitiken
 Fanfare	Fanfaren
 Fangemeinde	Fangemeinden
+Fantasie	Fantasien
 Farbe	Farben
 Farbgebung	Farbgebungen
 Farbigkeit	Farbigkeiten
@@ -1639,6 +1660,7 @@ Feinunze	Feinunzen
 Felswand	Felswände
 Feministin	Feministinnen
 Fensterscheibe	Fensterscheiben
+Ferien	Ferien
 Ferieninsel	Ferieninseln
 Ferienwoche	Ferienwochen
 Ferienwohnung	Ferienwohnungen
@@ -1718,6 +1740,7 @@ Fischerei	Fischereien
 Fitness	—
 Fixierung	Fixierungen
 Flagge	Flaggen
+Flamme	Flammen
 Flanke	Flanken
 Flasche	Flaschen
 Flaute	Flauten
@@ -1726,8 +1749,10 @@ Flexibilisierung	Flexibilisierungen
 Fliege	Fliegen
 Fliese	Fliesen
 Flinte	Flinten
+Flora	Floras
 Floskel	Floskeln
 Flotte	Flotten
+Flucht	Fluchten
 Fluchtgefahr	—
 Flugbewegung	Flugbewegungen
 Fluggesellschaft	Fluggesellschaften
@@ -2141,6 +2166,7 @@ Grundsteuer	Grundsteuern
 Grundstimmung	Grundstimmungen
 Grundversorgung	Grundversorgungen
 Grundvoraussetzung	Grundvoraussetzungen
+Gruppe	Gruppen
 Gruppenarbeit	Gruppenarbeiten
 Gruppierung	Gruppierungen
 Gräfin	Gräfinnen
@@ -2154,6 +2180,7 @@ Göttlichkeit	Göttlichkeiten
 Habe	—
 Habgier	—
 Habilitation	Habilitationen
+Hacken	Hacken
 Hafenstadt	Hafenstädte
 Haftanstalt	Haftanstalten
 Haftentlassung	Haftentlassungen
@@ -2305,6 +2332,7 @@ Hetzjagd	Hetzjagden
 Heuchelei	Heucheleis
 Heuschrecke	Heuschrecken
 Hexe	Hexen
+Hexerei	Hexereis
 Hierarchie	Hierarchien
 Hilfe	Hilfen
 Hilfeleistung	Hilfeleistungen
@@ -2346,6 +2374,7 @@ Hochspannung	Hochspannungen
 Hochstimmung	—
 Hochtechnologie	Hochtechnologien
 Hochtour	Hochtouren
+Hochzeit	Hochzeiten
 Hoffnung	Hoffnungen
 Hoffnungslosigkeit	—
 Hoheit	Hoheiten
@@ -2359,6 +2388,7 @@ Hotline	Hotlines
 Hube	Huben
 Huldigung	Huldigungen
 Hunderasse	Hunderassen
+Hundert	—
 Hundertschaft	Hundertschaften
 Hundertstelsekunde	Hundertstelsekunden
 Hungersnot	Hungersnöte
@@ -2560,6 +2590,7 @@ Kabine	Kabinen
 Kabinettssitzung	Kabinettssitzungen
 Kabinettsumbildung	Kabinettsumbildungen
 Kachel	Kacheln
+Kacke	Kacken
 Kaffeemaschine	Kaffeemaschinen
 Kaiserin	Kaiserinnen
 Kajüte	Kajüten
@@ -2596,6 +2627,7 @@ Kanzlerin	Kanzlerinnen
 Kanzlerkandidatur	Kanzlerkandidaturen
 Kanzlerschaft	Kanzlerschaften
 Kapazität	Kapazitäten
+Kapelle	Kapellen
 Kapitalanlage	Kapitalanlagen
 Kapitalgesellschaft	Kapitalgesellschaften
 Kapitulation	Kapitulationen
@@ -2611,6 +2643,7 @@ Karikatur	Karikaturen
 Karosse	Karossen
 Karosserie	Karosserien
 Karotte	Karotten
+Karre	Karren
 Karriere	Karrieren
 Karriereleiter	Karriereleitern
 Karte	Karten
@@ -2633,6 +2666,7 @@ Kathedrale	Kathedralen
 Katze	Katzen
 Kaufkraft	Kaufkräfte
 Kaution	Kautionen
+Kavallerie	Kavallerien
 Kehle	Kehlen
 Kehre	Kehren
 Kehrseite	Kehrseiten
@@ -2739,6 +2773,7 @@ Kolonialzeit	Kolonialzeiten
 Kolonie	Kolonien
 Kolonne	Kolonnen
 Kolumne	Kolumnen
+Kombination	Kombinationen
 Komik	—
 Kommerzialisierung	Kommerzialisierungen
 Kommissarin	Kommissarinnen
@@ -2824,6 +2859,7 @@ Korruption	Korruptionen
 Kosmetik	Kosmetika
 Kost	—
 Kostbarkeit	Kostbarkeiten
+Kosten	—
 Kosteneinsparung	Kosteneinsparungen
 Kostenexplosion	Kostenexplosionen
 Kostensenkung	Kostensenkungen
@@ -2831,6 +2867,7 @@ Kostensteigerung	Kostensteigerungen
 Kostenstruktur	Kostenstrukturen
 Kostprobe	Kostproben
 Krabbe	Krabben
+Kraft	Kräfte
 Kraftprobe	Kraftproben
 Kralle	Krallen
 Kranke	Kranken
@@ -2838,6 +2875,7 @@ Krankenanstalt	Krankenanstalten
 Krankenkasse	Krankenkassen
 Krankenpflege	—
 Krankenschwester	Krankenschwestern
+Krankenstation	Krankenstationen
 Krankenversicherung	Krankenversicherungen
 Krankheit	Krankheiten
 Krause	Krausen
@@ -2934,6 +2972,7 @@ Kurzarbeit	Kurzarbeiten
 Kurzgeschichte	Kurzgeschichten
 Kurzparkzone	Kurzparkzonen
 Kurzweil	—
+Kutsche	Kutschen
 Königin	Königinnen
 Königsfamilie	Königsfamilien
 Körperverletzung	Körperverletzungen
@@ -2941,6 +2980,7 @@ Küche	Küchen
 Kündigung	Kündigungen
 Küstenwache	Küstenwachen
 Ladenschlusszeit	Ladenschlusszeiten
+Ladung	Ladungen
 Lady	Ladys
 Lage	Lagen
 Lagerhalle	Lagerhallen
@@ -3086,6 +3126,7 @@ Liberalisierung	Liberalisierungen
 Liberation	Liberationen
 Lichte	Lichtes	Lichte
 Lichterkette	Lichterketten
+Lichtgeschwindigkeit	Lichtgeschwindigkeiten
 Lichtgestalt	Lichtgestalten
 Lichtquelle	Lichtquellen
 Lichtung	Lichtungen
@@ -3214,6 +3255,7 @@ Marktmacht	Marktmächte
 Marktposition	Marktpositionen
 Marktwirtschaft	Marktwirtschaften
 Marmelade	Marmeladen
+Marsch	Marschen
 Marschrichtung	Marschrichtungen
 Marschroute	Marschrouten
 Masche	Maschen
@@ -3238,6 +3280,7 @@ Matrix	Matrizen	Matrizes	Matrices
 Mattscheibe	Mattscheiben
 Matura	Maturen
 Mauer	Mauern
+Maus	Mäuse
 Maut	Mauten
 Maxime	Maximen
 Maß	Maße
@@ -3373,6 +3416,7 @@ Mitverantwortung	Mitverantwortungen
 Mitwirkung	Mitwirkungen
 Mixtur	Mixturen
 Mobilisierung	Mobilisierungen
+Mode	Moden
 Modenschau	Modenschaus
 Moderation	Moderationen
 Moderatorin	Moderatorinnen
@@ -3424,6 +3468,7 @@ Musikszene	Musikszenen
 Muskulatur	Muskulaturen
 Mutation	Mutationen
 Mutprobe	Mutproben
+Mutter	Mütter
 Muttergesellschaft	Muttergesellschaften
 Muttermilch	—
 Muttersprache	Muttersprachen
@@ -3431,6 +3476,7 @@ Mutti	Muttis
 Mystik	—
 Mythologie	Mythologien
 Mätresse	Mätressen
+Möbel	—
 Möhre	Möhren
 Möwe	Möwen
 Mücke	Mücken
@@ -3559,6 +3605,7 @@ Niederschlagung	Niederschlagungen
 Niederschrift	Niederschriften
 Niederung	Niederungen
 Niere	Nieren
+Niete	Nieten
 Nische	Nischen
 Nomenklatura	—
 Nomination	Nominationen
@@ -3573,6 +3620,7 @@ Normalität	Normalitäten
 Normandie	—
 Nostalgie	Nostalgien
 Not	Nöte
+Notaufnahme	Notaufnahmen
 Notbremse	Notbremsen
 Note	Noten
 Notenbank	Notenbanken
@@ -3591,10 +3639,12 @@ Novellierung	Novellierungen
 Nuance	Nuancen
 Nudel	Nudeln
 Nuklearwaffe	Nuklearwaffen
+Null	Nullen
 Nullnummer	Nullnummern
 Nullrunde	Nullrunden
 Nummer	Nummern
 Nuss	Nüsse
+Nutte	Nutten
 Nutzung	Nutzungen
 Nächstenliebe	Nächstenlieben
 Nähe	Nähen
@@ -3645,6 +3695,7 @@ Oppositionspartei	Oppositionsparteien
 Optik	Optiken
 Optimierung	Optimierungen
 Option	Optionen
+Orange	Orangen
 Orangerie	Orangerien
 Orchestra	Orchestren
 Orchidee	Orchideen
@@ -3696,6 +3747,7 @@ Papierindustrie	Papierindustrien
 Pappe	Pappen
 Pappel	Pappeln
 Parabel	Parabeln
+Parade	Paraden
 Parallele	Parallelen
 Paranoia	Paranoias
 Parkanlage	Parkanlagen
@@ -3738,6 +3790,7 @@ Patte	Patten
 Pauke	Pauken
 Pauschale	Pauschalen	Pauschale	Pauschalien
 Pauschalreise	Pauschalreisen
+Pause	Pausen
 Peinlichkeit	Peinlichkeiten
 Peitsche	Peitschen
 Pension	Pensionen
@@ -3752,6 +3805,7 @@ Perfektion	Perfektionen
 Performance	Performances
 Periode	Perioden
 Peripherie	Peripherien
+Perle	Perlen
 Persiflage	Persiflagen
 Person	Personen
 Personalabteilung	Personalabteilungen
@@ -3807,6 +3861,7 @@ Pipa	Pipas
 Pipeline	Pipelines
 Pirouette	Pirouetten
 Piste	Pisten
+Pistole	Pistolen
 Pizza	Pizzas
 Pizzeria	Pizzerien	Pizzerias
 Plage	Plagen
@@ -3821,7 +3876,9 @@ Planungsphase	Planungsphasen
 Planungssicherheit	Planungssicherheiten
 Planwirtschaft	Planwirtschaften
 Planänderung	Planänderungen
+Plastik	Plastiken
 Platane	Platanen
+Platte	Platten
 Plattenfirma	Plattenfirmen
 Plattform	Plattformen
 Platzierung	Platzierungen
@@ -3867,6 +3924,7 @@ Posaune	Posaunen
 Position	Positionen
 Positionierung	Positionierungen
 Posse	Possen
+Post	Posten
 Postbank	Postbanken
 Postfiliale	Postfilialen
 Postgewerkschaft	Postgewerkschaften
@@ -4252,6 +4310,7 @@ Rollenverteilung	Rollenverteilungen
 Rolltreppe	Rolltreppen
 Romantik	Romantiken
 Romanze	Romanzen
+Rose	Rosen
 Rosine	Rosinen
 Rotation	Rotationen
 Route	Routen
@@ -4312,6 +4371,7 @@ Sanktion	Sanktionen
 Satire	Satiren
 Satzung	Satzungen
 Sauberkeit	Sauberkeiten
+Sauce	Saucen
 Sauerei	Sauereis
 Sauna	Saunas
 Schablone	Schablonen
@@ -4375,6 +4435,7 @@ Schlamperei	Schlampereien
 Schlange	Schlangen
 Schlappe	Schlappen
 Schleimhaut	Schleimhäute
+Schleppe	Schleppen
 Schleuse	Schleusen
 Schlichtheit	—
 Schlichtung	Schlichtungen
@@ -4669,6 +4730,7 @@ Sozialwohnung	Sozialwohnungen
 Soziologie	Soziologien
 Soziologin	Soziologinnen
 Soße	Soßen
+Spaghetti	—
 Spalte	Spalten
 Spaltung	Spaltungen
 Spanierin	Spanierinnen
@@ -4854,6 +4916,7 @@ Stewardess	Stewardessen
 Stichprobe	Stichproben
 Stichwahl	Stichwahlen
 Stickerei	Stickereis
+Stiefmutter	Stiefmütter
 Stiftskirche	Stiftskirchen
 Stiftung	Stiftungen
 Stille	—
@@ -4934,6 +4997,7 @@ Sudetendeutsche	Sudetendeutschen
 Suite	Suiten
 Summe	Summen
 Supermacht	Supermächte
+Suppe	Suppen
 Suspendierung	Suspendierungen
 Symbiose	Symbiosen
 Symbolfigur	Symbolfiguren
@@ -5146,6 +5210,7 @@ Troika	Troikas
 Trommel	Trommeln
 Trompete	Trompeten
 Trophäe	Trophäen
+Truhe	Truhen
 Trunkenheit	—
 Truppe	Truppen
 Träne	Tränen
@@ -5230,6 +5295,7 @@ Ungewissheit	Ungewissheiten
 Ungleichbehandlung	Ungleichbehandlungen
 Ungleichheit	Ungleichheiten
 Ungnade	Ungnaden
+Uni	Unis
 Uniform	Uniformen
 Uniklinik	Unikliniken
 Union	Unionen
@@ -5728,6 +5794,7 @@ Weihnachtsgeschichte	Weihnachtsgeschichten
 Weihnachtszeit	—
 Weile	Weilen
 Weinprobe	Weinproben
+Weise	Weisen
 Weisheit	Weisheiten
 Weisung	Weisungen
 Weite	Weiten
@@ -5914,6 +5981,7 @@ Zeitenwende	Zeitenwenden
 Zeitgeschichte	Zeitgeschichten
 Zeitlang	—
 Zeitlupe	Zeitlupen
+Zeitmaschine	Zeitmaschinen
 Zeitrechnung	Zeitrechnungen
 Zeitreise	Zeitreisen
 Zeitschrift	Zeitschriften

@@ -22,7 +22,9 @@ Ableben	Ableben
 Ablenkungsmanöver	Ablenkungsmanöver
 Abo	Abos
 Abonnement	Abonnements	Abonnemente
+Abschluss	Abschlüsse
 Abschlusstraining	Abschlusstrainings
+Abschneiden	Abschneiden
 Abseits	Abseits
 Abstellgleis	Abstellgleise
 Abstimmungsergebnis	Abstimmungsergebnisse
@@ -92,12 +94,14 @@ Andenken	Andenken
 Andorra	—
 Anforderungsprofil	Anforderungsprofile
 Angebot	Angebote
+Angeln	Angeln
 Angesicht	Angesichter
 Angola	—
 Ankara	—
 Anliegen	Anliegen
 Anmeldeformular	Anmeldeformulare
 Anrecht	Anrechte
+Ansagen	Ansagen
 Ansehen	—
 Ansinnen	Ansinnen
 Antibiotikum	Antibiotika
@@ -147,6 +151,7 @@ Arzneimittel	Arzneimittel
 Aschenputtel	—
 Aserbaidschan	—
 Asien	—
+Aspirin	Aspirins
 Assisi	—
 Asthma	—
 Asyl	Asyle
@@ -200,6 +205,7 @@ Australien	—
 Austria	—
 Auswahlverfahren	Auswahlverfahren
 Ausweichmanöver	Ausweichmanöver
+Auto	Autos
 Autogramm	Autogramme
 Autohaus	Autohäuser
 Automobil	Automobile
@@ -228,6 +234,7 @@ Ballhaus	Ballhäuser
 Ballungsgebiet	Ballungsgebiete
 Ballungszentrum	Ballungszentren
 Baltikum	—
+Band	Bänder
 Bandmitglied	Bandmitglieder
 Bangladesch	—
 Bankgeheimnis	Bankgeheimnisse
@@ -267,6 +274,7 @@ Befinden	—
 Begehren	Begehren
 Begräbnis	Begräbnisse
 Beil	Beile
+Beileid	—
 Bein	Beine
 Beirut	—
 Beisammensein	—
@@ -276,8 +284,10 @@ Beitrittsland	Beitrittsländer
 Beiwerk	Beiwerke
 Bekennerschreiben	Bekennerschreiben
 Bekenntnis	Bekenntnisse
+Beladen	Beladen
 Belgien	—
 Belgrad	—
+Belieben	Belieben
 Bellinzona	Bellinzonas
 Belvedere	Belvederes
 Bemühen	Bemühen
@@ -364,6 +374,7 @@ Bombardement	Bombardements
 Bombenattentat	Bombenattentate
 Bonmot	Bonmots
 Bonn	—
+Boot	Boote
 Bordell	Bordelle
 Borneo	—
 Bosnien	—
@@ -448,6 +459,7 @@ Büro	Büros
 Cabrio	Cabrios
 Cabriolet	Cabriolets
 Cafe	Cafes
+Café	Cafés
 Cambridge	—
 Camp	Camps
 Canberra	—
@@ -456,6 +468,7 @@ Cape	Capes
 Capri	—
 Cardiff	—
 Carol	Carols
+Cash	—
 Casino	Casinos
 Casting	Castings
 Castle	Castles
@@ -471,6 +484,7 @@ Chemieunternehmen	Chemieunternehmen
 Chicago	—
 Chile	—
 China	—
+Chinesisch	—
 Chlor	—
 Cholesterin	Cholesterine
 Christentum	Christentümer
@@ -548,6 +562,7 @@ Dienstleistungszentrum	Dienstleistungszentren
 Dienstrecht	Dienstrechte
 Diktat	Diktate
 Dilemma	Dilemmas
+Ding	Dinge
 Dinner	Dinners
 Dioxin	Dioxine
 Diplom	Diplome
@@ -607,7 +622,9 @@ Ego	Egos
 Ehepaar	Ehepaare
 Ehrenamt	Ehrenämter
 Ehrenmitglied	Ehrenmitglieder
+Ehrenwort	Ehrenwörter
 Ehrenzeichen	Ehrenzeichen
+Ei	Eier
 Eichhorn	Eichhörner
 Eichhörnchen	Eichhörnchen
 Eigen	—
@@ -620,13 +637,19 @@ Eigentum	Eigentume
 Eigentumsrecht	Eigentumsrechte
 Eiland	Eilande
 Eilverfahren	Eilverfahren
+Einatmen	Einatmen
+Einbringen	Einbringen
+Eindringen	Eindringen
 Einfamilienhaus	Einfamilienhäuser
+Einkaufen	Einkaufen
 Einkaufszentrum	Einkaufszentren
 Einkommen	Einkommen
+Einlegen	Einlegen
 Einmaleins	—
 Einsatzfahrzeug	Einsatzfahrzeuge
 Einsatzgebiet	Einsatzgebiete
 Einsatzkommando	Einsatzkommandos
+Eintreffen	Eintreffen
 Eintrittsgeld	Eintrittsgelder
 Einvernehmen	—
 Einwanderungsgesetz	Einwanderungsgesetze
@@ -637,6 +660,7 @@ Einzelteil	Einzelteile
 Einzelzeitfahren	Einzelzeitfahren
 Einzelzimmer	Einzelzimmer
 Einzugsgebiet	Einzugsgebiete
+Eis	—
 Eisen	Eisen
 Eisenach	—
 Eisenerz	Eisenerze
@@ -685,6 +709,7 @@ Erdgeschoss	Erdgeschosse
 Erdreich	—
 Erdöl	Erdöle
 Ereignis	Ereignisse
+Erfassen	Erfassen
 Erfolgserlebnis	Erfolgserlebnisse
 Erfolgsgeheimnis	Erfolgsgeheimnisse
 Erfolgsrezept	Erfolgsrezepte
@@ -708,6 +733,7 @@ Erzbistum	Erzbistümer
 Erzeugnis	Erzeugnisse
 Erzgebirge	—
 Erziehungsgeld	Erziehungsgelder
+Essen	Essen
 Establishment	Establishments
 Estland	—
 Etablissement	Etablissements
@@ -856,6 +882,8 @@ Fort	Forts
 Forte	Fortes	Forti
 Forum	Foren
 Fossil	Fossilien
+Foto	Fotos
+Fotografieren	Fotografieren
 Foul	Fouls
 Foulspiel	Foulspiele
 Foyer	Foyers
@@ -890,6 +918,7 @@ Fundament	Fundamente
 Funkbild	Funkbilder
 Funkgerät	Funkgeräte
 Funkhaus	Funkhäuser
+Futter	Futter
 Futtermittel	Futtermittel
 Futur	Future
 Gal	Gals
@@ -938,6 +967,7 @@ Gefäß	Gefäße
 Gefühl	Gefühle
 Gegenargument	Gegenargumente
 Gegengewicht	Gegengewichte
+Gegenmittel	Gegenmittel
 Gegenteil	Gegenteile
 Gegentor	Gegentore
 Gehabe	—
@@ -953,6 +983,7 @@ Geldinstitut	Geldinstitute
 Geleise	Geleise
 Geleit	Geleite
 Gelenk	Gelenke
+Gelingen	Gelingen
 Gelsenkirchen	—
 Gelächter	Gelächter
 Gelände	Gelände
@@ -981,6 +1012,7 @@ Georgia	—
 Georgien	—
 Gerangel	—
 Gerede	—
+Gericht	Gerichte
 Gerichtsurteil	Gerichtsurteile
 Gerichtsverfahren	Gerichtsverfahren
 Gerüst	Gerüste
@@ -998,6 +1030,7 @@ Geschehen	Geschehen
 Geschehnis	Geschehnisse
 Geschenk	Geschenke
 Geschichtsbuch	Geschichtsbücher
+Geschick	Geschicke
 Geschirr	Geschirre
 Geschlecht	Geschlechter
 Geschoss	Geschosse
@@ -1011,6 +1044,7 @@ Gesellschaftsspiel	Gesellschaftsspiele
 Gesetz	Gesetze
 Gesetzbuch	Gesetzbücher
 Gesetzgebungsverfahren	Gesetzgebungsverfahren
+Gesicht	Gesichter
 Gespann	Gespanne
 Gespenst	Gespenster
 Gespräch	Gespräche
@@ -1035,6 +1069,7 @@ Gewehr	Gewehre
 Gewerbe	Gewerbe
 Gewerbegebiet	Gewerbegebiete
 Gewerkschaftsmitglied	Gewerkschaftsmitglieder
+Gewicht	Gewichte
 Gewinnspiel	Gewinnspiele
 Gewirr	—
 Gewissen	Gewissen
@@ -1045,6 +1080,7 @@ Gewölbe	Gewölbe
 Gezerre	—
 Ghana	—
 Gibraltar	—
+Gift	Gifte
 Giftgas	Giftgase
 Gigabyte	GigabytedieGigabytes
 Gipfeltreffen	Gipfeltreffen
@@ -1053,6 +1089,7 @@ Girokonto	Girokonten	Girokontos	Girokonti
 Gitter	Gitter
 Glanzlicht	Glanzlichter
 Glarus	—
+Glas	Gläser
 Glasgow	—
 Glashaus	Glashäuser
 Glatteis	—
@@ -1086,6 +1123,7 @@ Grenzgebiet	Grenzgebiete
 Grenzland	Grenzländer
 Griechenland	—
 Griechisch	—
+Grillen	Grillen
 Grillfest	Grillfeste
 Großbritannien	—
 Grundbuch	Grundbücher
@@ -1109,6 +1147,7 @@ Gähnen	Gähnen
 Gänseblümchen	Gänseblümchen
 Gästehaus	Gästehäuser
 Gästezimmer	Gästezimmer
+Haar	Haare
 Haben	—
 Hafenbecken	Hafenbecken
 Haifa	—
@@ -1164,6 +1203,7 @@ Hausverbot	Hausverbote
 Hawaii	—
 Hearing	Hearings
 Hebräisch	—
+Heck	Hecke
 Heer	Heere
 Heidelberg	—
 Heil	—
@@ -1182,6 +1222,7 @@ Helium	—
 Helsinki	—
 Hemd	Hemden
 Hemmnis	Hemmnisse
+Herkommen	Herkommen
 Herkunftsland	Herkunftsländer
 Herrchen	Herrchen
 Herrenhaus	Herrenhäuser
@@ -1305,6 +1346,7 @@ Italien	—
 Italienisch	—
 Jackett	Jacketts
 Jagdschloss	Jagdschlösser
+Jahr	Jahre
 Jahrbuch	Jahrbücher
 Jahresbudget	Jahresbudgets
 Jahreseinkommen	Jahreseinkommen
@@ -1318,6 +1360,7 @@ Jahrzehnt	Jahrzehnten
 Jakarta	—
 Jamaika	Jamaikas
 Japan	—
+Japanisch	—
 Jawort	Jaworte
 Jena	—
 Jenseits	—
@@ -1383,6 +1426,7 @@ Kartellrecht	—
 Kartenspiel	Kartenspiele
 Karussell	Karussells
 Kasachstan	—
+Kasino	Kasinos
 Kassel	—
 Katalonien	—
 Katar	—
@@ -1431,6 +1475,7 @@ Kirchgemeindehaus	Kirchgemeindehäuser
 Kissen	Kissen
 Kitz	Kitze
 Klangbild	Klangbilder
+Klappern	Klappern
 Klassenzimmer	Klassenzimmer
 Klavier	Klaviere
 Klavierkonzert	Klavierkonzerte
@@ -1453,6 +1498,7 @@ Knochenmark	—
 Knöpfchen	Knöpfchen
 Koblenz	—
 Kochbuch	Kochbücher
+Kochen	Kochen
 Kohlekraftwerk	Kohlekraftwerke
 Kohlendioxid	Kohlendioxide
 Kohlenmonoxid	Kohlenmonoxide
@@ -1461,6 +1507,7 @@ Kollegium	Kollegien
 Kollektiv	Kollektive
 Kolloquium	Kolloquien
 Kolumbien	—
+Koma	Komas
 Kombinat	Kombinate
 Komitee	Komitees
 Komma	Kommas	Kommata
@@ -1504,10 +1551,12 @@ Kopfsteinpflaster	Kopfsteinpflaster
 Kopftuch	Kopftücher
 Kopfzerbrechen	—
 Korea	Korea	Koreas
+Korn	Körner
 Korps	Korps
 Korsett	Korsetts
 Kosmetikum	Kosmetika
 Kostüm	Kostüme
+Krachen	Krachen
 Kraftfahrzeug	Kraftfahrzeuge
 Kraftwerk	Kraftwerke
 Krakau	—
@@ -1584,6 +1633,7 @@ Ladenschlussgesetz	Ladenschlussgesetze
 Lager	Lager
 Lagerfeuer	Lagerfeuer
 Lagerhaus	Lagerhäuser
+Laken	Laken
 Lamento	Lamentos	Lamenti
 Lamm	Lämmer
 Lampenfieber	—
@@ -1627,6 +1677,7 @@ Lehrbuch	Lehrbücher
 Lehrgeld	Lehrgelder
 Lehrjahr	Lehrjahre
 Leibchen	Leibchen
+Leichenschauhaus	Leichenschauhäuser
 Leichtgewicht	Leichtgewichte
 Leid	—
 Leidwesen	—
@@ -1641,6 +1692,7 @@ Lesebuch	Lesebücher
 Leslie	Leslies
 Let	Lets
 Lettland	—
+Leugnen	Leugnen
 Lexikon	Lexika	Lexiken
 Liberia	—
 Libretto	Librettos	Libretti
@@ -1669,6 +1721,7 @@ Literaturhaus	Literaturhäuser
 Liverpool	—
 Loblied	Loblieder
 Locarno	—
+Loch	Löcher
 Lohnniveau	Lohnniveaus
 Lokal	Lokale
 Lokalderby	Lokalderbys
@@ -1677,6 +1730,7 @@ Los	Lose
 Lothringen	—
 Lotto	Lottos
 Louisiana	—
+Luder	Luder
 Luftgewehr	Luftgewehre
 Luftschiff	Luftschiffe
 Luftschloss	Luftschlösser
@@ -1782,6 +1836,7 @@ Metall	Metalle
 Methadon	—
 Methan	—
 Metier	Metiers
+Mexiko	Mexikos
 Miami	—
 Mietrecht	Mietrechte
 Mietshaus	Mietshäuser
@@ -1812,6 +1867,7 @@ Mitgliedsland	Mitgliedsländer	Mitgliedslande
 Mitleid	—
 Mitspracherecht	Mitspracherechte
 Mittagessen	Mittagessen
+Mittel	Mittel
 Mittelalter	—
 Mittelamerika	Mittelamerikas
 Mitteleuropa	—
@@ -1827,6 +1883,7 @@ Mobiltelefon	Mobiltelefone
 Modehaus	Modehäuser
 Modell	Modelle
 Modellprojekt	Modellprojekte
+Modeln	Modeln
 Mofa	Mofas
 Mol	—
 Molekül	Moleküle
@@ -1849,6 +1906,7 @@ Mordopfer	Mordopfer
 Morgengrauen	Morgengrauen
 Mosaik	Mosaiken	Mosaike
 Moskau	—
+Motel	Motels
 Motiv	Motive
 Moto	Motos
 Motorboot	Motorboote
@@ -1926,9 +1984,11 @@ Neujahrskonzert	Neujahrskonzerte
 Neuland	—
 Neutron	Neutronen
 Nevada	—
+Nicaragua	Nicaraguas
 Nichtmitglied	Nichtmitglieder
 Nichts	Nichtse
 Nichtstun	—
+Nickerchen	Nickerchen
 Niederbayern	—
 Niedersachsen	—
 Niemandsland	Niemandsländer
@@ -2036,6 +2096,7 @@ Paradigma	Paradigmen	Paradigmata
 Paradox	Paradoxe
 Parfum	Parfums
 Parkdeck	Parkdecks
+Parken	Parken
 Parkett	Parkette
 Parkhaus	Parkhäuser
 Parlament	Parlamente
@@ -2088,6 +2149,8 @@ Pharmaunternehmen	Pharmaunternehmen
 Photon	Photonen
 Pickerl	Pickerl	Pickerln
 Picknick	Picknicke
+Piepen	—
+Piepsen	Piepsen
 Piercing	Piercings
 Pilotprojekt	Pilotprojekte
 Pils	Pils
@@ -2112,12 +2175,15 @@ Plätzchen	Plätzchen
 Podium	Podien
 Pokalfinale	Pokalfinale	Pokalfinals
 Pokalspiel	Pokalspiele
+Polen	—
+Polieren	Polieren
 Politikum	Politika
 Polizeiaufgebot	Polizeiaufgebote
 Polizeiauto	Polizeiautos
 Polizeigesetz	Polizeigesetze
 Polizeipräsidium	Polizeipräsidien
 Polizeirevier	Polizeireviere
+Polnisch	—
 Polo	—
 Popcorn	Popcorns
 Portal	Portale
@@ -2134,6 +2200,7 @@ Postamt	Postämter
 Postauto	Postautos
 Postfach	Postfächer
 Postulat	Postulate
+Potential	Potentiale
 Potenzial	Potenziale
 Potpourri	Potpourris
 Potsdam	—
@@ -2198,6 +2265,7 @@ Quartier	Quartiere
 Quecksilber	—
 Quintett	Quintette
 Quiz	Quiz
+Rad	Räder
 Radikal	Radikale
 Radio	Radios
 Radioprogramm	Radioprogramme
@@ -2211,9 +2279,11 @@ Rathaus	Rathäuser
 Rating	Ratings
 Ratsmitglied	Ratsmitglieder
 Raubtier	Raubtiere
+Rauchen	Rauchen
 Rauchverbot	Rauchverbote
 Raumordnungsverfahren	Raumordnungsverfahren
 Raumschiff	Raumschiffe
+Rauschen	Rauschen
 Rauschgift	Rauschgifte
 Reagenzglas	Reagenzgläser
 Rechenzentrum	Rechenzentren
@@ -2253,6 +2323,7 @@ Reinigungsmittel	Reinigungsmittel
 Reisebüro	Reisebüros
 Reiseunternehmen	Reiseunternehmen
 Reiseziel	Reiseziele
+Reiten	Reiten
 Rekordergebnis	Rekordergebnisse
 Rekordjahr	Rekordjahre
 Rekordtief	Rekordtiefs
@@ -2361,6 +2432,7 @@ Schaufenster	Schaufenster
 Schauspiel	Schauspiele
 Schauspielhaus	Schauspielhäuser
 Scheinwerferlicht	Scheinwerferlichter
+Scheitern	Scheitern
 Schema	Schemas
 Scherzo	Scherzos
 Schicksal	Schicksale
@@ -2405,6 +2477,7 @@ Schnellverfahren	Schnellverfahren
 Schnitzel	Schnitzel
 Schnäppchen	Schnäppchen
 Schottland	—
+Schrecken	Schrecken
 Schreckgespenst	Schreckgespenster
 Schreiben	Schreiben
 Schriftzeichen	Schriftzeichen
@@ -2432,6 +2505,7 @@ Schweigen	Schweigen
 Schwein	Schweine
 Schweinchen	Schweinchen
 Schweinefleisch	Schweinefleische
+Schwellen	Schwellen
 Schwellenland	Schwellenländer
 Schwergewicht	Schwergewichte
 Schwermetall	Schwermetalle
@@ -2439,6 +2513,7 @@ Schwerpunktthema	Schwerpunktthemata	Schwerpunktthemen
 Schwert	Schwerter
 Schwimmbad	Schwimmbäder
 Schwimmbecken	Schwimmbecken
+Schwimmen	Schwimmen
 Schwurgericht	Schwurgerichte
 Schätzchen	Schätzchen
 Sediment	Sedimente
@@ -2448,6 +2523,7 @@ Segel	Segel
 Segelboot	Segelboote
 Segelschiff	Segelschiffe
 Segment	Segmente
+Sehnen	Sehnen
 Seidel	Seidel
 Seil	Seile
 Sein	—
@@ -2466,6 +2542,7 @@ Seniorenheim	Seniorenheime
 Seoul	—
 Serbien	—
 Serum	Seren
+Service	Services
 Sextett	Sextette
 Sexualdelikt	Sexualdelikte
 Shirt	Shirts
@@ -2486,6 +2563,7 @@ Silikon	Silikone
 Silizium	—
 Simbabwe	—
 Sinfonieorchester	Sinfonieorchester
+Single	Singlen	Singlen
 Singspiel	Singspiele
 Sinnbild	Sinnbilder
 Sizilien	—
@@ -2526,6 +2604,7 @@ Sozialsystem	Sozialsysteme
 Sozialwesen	Sozialwesen
 Spalier	Spaliere
 Spanien	—
+Spanisch	—
 Spannungsfeld	Spannungsfelder
 Sparbuch	Sparbücher
 Sparpaket	Sparpakete
@@ -2544,6 +2623,7 @@ Spiel	Spiele
 Spielcasino	Spielcasinos
 Spielfeld	Spielfelder
 Spielzeug	Spielzeuge
+Spital	Spitäler
 Spitzenspiel	Spitzenspiele
 Spitzenteam	Spitzenteams
 Sponsorengeld	Sponsorengelder
@@ -2603,6 +2683,7 @@ Startloch	Startlöcher
 Statement	Statements
 Statussymbol	Statussymbole
 Statut	Statuten
+Staunen	Staunen
 Steak	Steaks
 Steckenpferd	Steckenpferde
 Steinhaus	Steinhäuser
@@ -2624,6 +2705,7 @@ Stickoxid	Stickoxide
 Stiefkind	Stiefkinder
 Stiegenhaus	Stiegenhäuser
 Stigma	Stigmata	Stigmen
+Stillen	Stillen
 Stillschweigen	—
 Stilmittel	Stilmittel
 Stimmrecht	Stimmrechte
@@ -2661,6 +2743,7 @@ Subjekt	Subjekte
 Suchtgift	Suchtgifte
 Sujet	Sujets
 Sumatra	—
+Surfen	Surfen
 Sushi	Sushis
 Sydney	—
 Symbol	Symbole
@@ -2668,6 +2751,7 @@ Symphonieorchester	Symphonieorchester
 Symposion	Symposien
 Symposium	Symposien
 Symptom	Symptome
+Syndikat	Syndikate
 Syndrom	Syndrome
 Synonym	Synonyme	Synonyma
 System	Systeme
@@ -2769,6 +2853,7 @@ Tonband	Tonbänder
 Tonbandgerät	Tonbandgeräte
 Tonstudio	Tonstudios
 Tool	Tools
+Tor	Tore
 Toronto	—
 Traditionsunternehmen	Traditionsunternehmen
 Training	Trainings
@@ -2927,6 +3012,7 @@ Vermächtnis	Vermächtnisse
 Vermögen	Vermögen
 Vernichtungslager	Vernichtungslager
 Verona	—
+Versagen	Versagen
 Versandhaus	Versandhäuser
 Verschulden	Verschulden
 Versehen	Versehen
@@ -2935,6 +3021,7 @@ Versprechen	Versprechen
 Versteck	Verstecke
 Verständnis	Verständnisse
 Verteidigungsministerium	Verteidigungsministerien
+Verteilen	Verteilen
 Vertragswerk	Vertragswerke
 Vertrauen	Vertrauen
 Verwaltungsgericht	Verwaltungsgerichte
@@ -2947,6 +3034,7 @@ Videoband	Videobänder
 Videospiel	Videospiele
 Viech	Viecher
 Vieh	Viecher
+Viertel	Viertel
 Viertelfinale	Viertelfinale
 Vierteljahr	Vierteljahre
 Vierteljahrhundert	Vierteljahrhunderte
@@ -3025,6 +3113,7 @@ Waldviertel	—
 Wales	—
 Wallis	—
 Wandbild	Wandbilder
+Wandern	Wandern
 Wappen	Wappen
 Warenhaus	Warenhäuser
 Warmwasser	—
@@ -3089,6 +3178,7 @@ Wildtier	Wildtiere
 Wildwasser	Wildwasser
 Wilhelmshaven	—
 Willkommen	Willkommen
+Wimmern	Wimmern
 Windrad	Windräder
 Winterquartier	Winterquartiere
 Wintersemester	Wintersemester
@@ -3189,6 +3279,7 @@ Zwielicht	—
 Zwischenergebnis	Zwischenergebnisse
 Zwischenlager	Zwischenlager	Zwischenläger
 Zwischenspiel	Zwischenspiele
+Zwitschern	Zwitschern
 Zypern	—
 Zögern	Zögern
 Ächzen	Ächzen
