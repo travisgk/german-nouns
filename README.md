@@ -22,8 +22,3 @@ The first element will be the singular form, while any following elements will b
 
 ## Notes
 There could be a few nouns which are created by modifying the ending of an existing adjective. These need to be removed, since "der Vorsitzende" and "ein Vorsitzender" each require different endings depending on the article.
-
-<br>
-
-# Special Thanks
-
