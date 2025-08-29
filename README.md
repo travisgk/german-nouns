@@ -3,8 +3,8 @@ Thousands of German nouns sorted by their grammatical gender into five alphabeti
 - Masculine Nouns
 - Feminine Nouns
 - Neutral Nouns
-- Infinitive Verbs (as nouns that lack plurals).
-- Plural-only Nouns.
+- Infinitive Verbs (as nouns that lack plurals)
+- Plural-only Nouns
 
 <br>
 
