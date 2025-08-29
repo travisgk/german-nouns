@@ -156,7 +156,6 @@ Anfangsverdacht	Anfangsverdachte	Anfangsverdächte
 Anflug	Anflüge
 Anfänger	Anfänger
 Anführer	Anführer
-Angehörige	Angehörigen
 Angelpunkt	Angelpunkte
 Anger	Anger
 Angler	Angler
@@ -5898,4 +5897,5 @@ Zünder	Zünder
 Überläufer	Überläufer
 Überraschungsangriff	Überraschungsangriffe
 Überrest	Überreste
+
 Übersetzer	Übersetzer
