@@ -199,7 +199,7 @@ def get_genders(word: str) -> list:
     if word in _das_singulars:
         results.append("sn(L)")
     if word in _verbs_das:
-        is_infinitive = True # has no specified plural.
+        is_infinitive = True  # has no specified plural.
         results.append("sn(L)")
 
     if word in _der_plurals:
