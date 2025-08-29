@@ -25,7 +25,7 @@ Description: This contains the function to return
 import sys
 from pathlib import Path
 
-LISTS_DIR = Path(__file__).parent / "words"
+LISTS_DIR = Path(__file__).parent / "nouns"
 
 
 def _load_words(article: str, singulars: list, plurals: list) -> None:
@@ -52,6 +52,7 @@ _die_singulars = []
 _die_plurals = []
 _das_singulars = []
 _das_plurals = []
+_verbs_das = []
 _plural_onlys = []
 
 
@@ -59,11 +60,13 @@ def _load_sets():
     global _der_singulars, _der_plurals
     global _die_singulars, _die_plurals
     global _das_singulars, _das_plurals
+    global _verbs_das
     global _plural_onlys
     if len(_der_singulars) == 0:
         _load_words("der", _der_singulars, _der_plurals)
         _load_words("die", _die_singulars, _die_plurals)
         _load_words("das", _das_singulars, _das_plurals)
+        _load_words("verbs-no-plural", _verbs_das, [])
         _load_words("plural-only", [], _plural_onlys)
 
         _der_singulars = set(_der_singulars)
@@ -74,6 +77,7 @@ def _load_sets():
 
         _das_singulars = set(_das_singulars)
         _das_plurals = set(_das_plurals)
+        _verbs_das = set(_verbs_das)
 
         _plural_onlys = set(_plural_onlys)
 
@@ -187,22 +191,27 @@ def get_genders(word: str) -> list:
             "po(L)",
         ]
 
+    is_infinitive = False
     if word in _der_singulars:
         results.append("sm(L)")
     if word in _die_singulars:
         results.append("sf(L)")
     if word in _das_singulars:
         results.append("sn(L)")
+    if word in _verbs_das:
+        is_infinitive = True # has no specified plural.
+        results.append("sn(L)")
 
     if word in _der_plurals:
         results.append("pm(L)")
     if word in _die_plurals:
         results.append("pf(L)")
-    if word in _das_plurals:
-        results.append("pn(L)")
+    if not is_infinitive:
+        if word in _das_plurals:
+            results.append("pn(L)")
 
-    if word in _plural_onlys:
-        results.append("po(L)")
+        if word in _plural_onlys:
+            results.append("po(L)")
 
     if len(results) == 0:
         results = _get_gender_by_absolutes(word)
