@@ -6,11 +6,17 @@ Thousands of German nouns sorted by their grammatical gender into five alphabeti
 - Infinitive Verbs (as nouns that lack plurals).
 - Plural-only Nouns.
 
+## Data Sources
+
 Each singular noun has its plural form(s) provided. Many plurals were scraped from [Wiktionary](https://de.wiktionary.org/).
 
-Most of these lists are based off of the lists found in [Chriss Posselt's](https://github.com/cpos) repository [AlleDeutschenWoerter](https://github.com/cpos/AlleDeutschenWoerter). Common words and words with umlauts (äöü) or an eszett (ß) have been added to the lists. 
+Most of these lists are adapted from [Chris Posselt’s](https://github.com/cpos)  repository [AlleDeutschenWoerter](https://github.com/cpos/AlleDeutschenWoerter). 
+Additional words, including those with umlauts (ä, ö, ü) or an eszett (ß), have been added to expand coverage.
 
-The list of infinitive verbs was sourced from [Stan James's](https://github.com/wanderingstan) gist named [top-german-verbs.csv](https://gist.github.com/wanderingstan/7eaaf0e22461b505c749e268c0b72bc4).
+The list of infinitive verbs was originally based on [Stan James’s](https://github.com/wanderingstan) gist [top-german-verbs.csv](https://gist.github.com/wanderingstan/7eaaf0e22461b505c749e268c0b72bc4). 
+
+However, the dataset here has been transformed and split into two files, with only raw infinitives retained.
+Frequency, ranking information, and conjugations from the original dataset are **not** used.
 
 <br>
 
