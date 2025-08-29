@@ -108,7 +108,6 @@ Anliegen	Anliegen
 Anmeldeformular	Anmeldeformulare
 Anrecht	Anrechte
 Ansagen	Ansagen
-Ansehen	—
 Ansinnen	Ansinnen
 Anstarren	Anstarren
 Antibiotikum	Antibiotika
@@ -190,7 +189,6 @@ Aufstiegsspiel	Aufstiegsspiele
 Auftaktspiel	Auftaktspiele
 Auftragsbuch	Auftragsbücher
 Auftragsvolumen	Auftragsvolumen	Auftragsvolumina
-Auftreten	—
 Auge	Augen
 Augenmerk	—
 Augenzwinkern	—
@@ -201,7 +199,6 @@ Ausbildungsjahr	Ausbildungsjahre
 Ausbildungszentrum	Ausbildungszentren
 Ausflugsziel	Ausflugsziele
 Ausführen	Ausführen
-Auskommen	—
 Ausland	—
 Auslaufmodell	Auslaufmodelle
 Auslöschen	Auslöschen
@@ -228,7 +225,6 @@ Baby	Babys
 Babylon	—
 Backhaus	Backhäuser
 Bad	Bäder
-Baden	—
 Badezimmer	Badezimmer
 Badminton	—
 Bagdad	—
@@ -276,10 +272,8 @@ Bauwerk	Bauwerke
 Bauwesen	—
 Bayern	—
 Becken	Becken
-Bedauern	—
 Bedenken	Bedenken
 Bedürfnis	Bedürfnisse
-Befinden	—
 Begehren	Begehren
 Begräbnis	Begräbnisse
 Beil	Beile
@@ -546,7 +540,6 @@ Dekret	Dekrete
 Delhi	—
 Delikt	Delikte
 Dementi	Dementis
-Denken	—
 Denkmal	Denkmäler
 Departement	Departements	Departemente
 Department	Departments
@@ -924,7 +917,6 @@ Freizeitzentrum	Freizeitzentren
 Fremdenverkehrsamt	Fremdenverkehrsämter
 Fremdverschulden	—
 Fremdwort	Fremdwörter
-Fressen	—
 Freundschaftsspiel	Freundschaftsspiele
 Friaul	—
 Friedensabkommen	Friedensabkommen
@@ -989,7 +981,6 @@ Gegentor	Gegentore
 Gehabe	—
 Gehege	Gehege
 Geheimnis	Geheimnisse
-Gehen	—
 Gehirn	Gehirne
 Geiseldrama	Geiseldramen
 Gel	Gele	Gels
@@ -1169,7 +1160,6 @@ Gänseblümchen	Gänseblümchen
 Gästehaus	Gästehäuser
 Gästezimmer	Gästezimmer
 Haar	Haare
-Haben	—
 Hackfleisch	Hackfleische
 Hafenbecken	Hafenbecken
 Haifa	—
@@ -1187,7 +1177,6 @@ Halteverbot	Halteverbote
 Hamburg	—
 Hameln	—
 Handbuch	Handbücher
-Handeln	—
 Handelsabkommen	Handelsabkommen
 Handelshaus	Handelshäuser
 Handelsregister	Handelsregister
@@ -1978,7 +1967,6 @@ Nachholspiel	Nachholspiele
 Nachkriegsjahr	Nachkriegsjahre
 Nachrichtenmagazin	Nachrichtenmagazine
 Nachschlagewerk	Nachschlagewerke
-Nachsehen	—
 Nachspiel	Nachspiele
 Nachtessen	Nachtessen
 Nachthemd	Nachthemden
@@ -2193,7 +2181,6 @@ Photon	Photonen
 Piano	Pianos
 Pickerl	Pickerl	Pickerln
 Picknick	Picknicke
-Piepen	—
 Piepsen	Piepsen
 Piercing	Piercings
 Pilotprojekt	Pilotprojekte
@@ -2220,7 +2207,6 @@ Plätzchen	Plätzchen
 Podium	Podien
 Pokalfinale	Pokalfinale	Pokalfinals
 Pokalspiel	Pokalspiele
-Polen	—
 Polieren	Polieren
 Politikum	Politika
 Polizeiaufgebot	Polizeiaufgebote
@@ -2475,7 +2461,6 @@ Schach	Schachs
 Schachmatt	Schachmatts
 Schachspiel	Schachspiele
 Schaf	Schafe
-Schaffen	—
 Schaffhausen	—
 Schanghai	—
 Schattendasein	—
@@ -2579,7 +2564,6 @@ Segment	Segmente
 Sehnen	Sehnen
 Seidel	Seidel
 Seil	Seile
-Sein	—
 Sekretariat	Sekretariate
 Selbst	—
 Selbstbestimmungsrecht	Selbstbestimmungsrechte
@@ -3221,7 +3205,6 @@ Weltwirtschaftsforum	Weltwirtschaftsforen
 Werbeplakat	Werbeplakate
 Werbeverbot	Werbeverbote
 Werk	Werke
-Werken	—
 Werkzeug	Werkzeuge
 Wertpapier	Wertpapiere
 Wertpapierhaus	Wertpapierhäuser
@@ -3261,7 +3244,6 @@ Wirtschaftsunternehmen	Wirtschaftsunternehmen
 Wirtschaftswachstum	—
 Wirtschaftswunder	Wirtschaftswunder
 Wirtshaus	Wirtshäuser
-Wissen	—
 Wissenschaftsministerium	Wissenschaftsministerien
 Wittenberg	—
 Wochenblatt	Wochenblätter
@@ -3271,7 +3253,6 @@ Wohlbefinden	—
 Wohlergehen	—
 Wohlfühlen	Wohlfühlen
 Wohlgefallen	—
-Wohlwollen	—
 Wohneigentum	Wohneigentümer
 Wohngebiet	Wohngebiete
 Wohngeld	Wohngelder
@@ -3341,7 +3322,6 @@ Zusammensein	—
 Zusammenspiel	Zusammenspiele
 Zusammentreffen	Zusammentreffen
 Zuspiel	Zuspiele
-Zutun	—
 Zuwanderungsgesetz	Zuwanderungsgesetze
 Zweifamilienhaus	Zweifamilienhäuser
 Zweirad	Zweiräder
