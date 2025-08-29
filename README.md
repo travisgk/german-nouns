@@ -38,4 +38,4 @@ If the plural element is `"—"`, then that means that the noun is only used in 
 ## Notes
 
 - There could be a few nouns which are created by modifying the ending of an existing adjective. **These need to be removed**, since "der Vorsitzende" and "ein Vorsitzender" each require different endings depending on the article.
-- The "das" nouns contain many infinitives made into verbs. Those that have a plural form seemingly *do* have a plural form given on Wiktionary, so these may not be of concern.
+- If an infinitive verb is found in `"das.txt"`, then that means it has a plural form that's used.
