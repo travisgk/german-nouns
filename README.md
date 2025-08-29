@@ -22,6 +22,5 @@ The first element will be the singular form, while any following elements will b
 
 ## Notes
 
-There could be a few nouns which are created by modifying the ending of an existing adjective. 
-
-These need to be removed, since "der Vorsitzende" and "ein Vorsitzender" each require different endings depending on the article.
+- There could be a few nouns which are created by modifying the ending of an existing adjective. **These need to be removed**, since "der Vorsitzende" and "ein Vorsitzender" each require different endings depending on the article.
+- The "das" nouns contain many infinitives made into verbs. Those that have a plural form seemingly *do* have a plural form given on Wiktionary, so these may not be of concern.
