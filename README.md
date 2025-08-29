@@ -3,6 +3,8 @@ German words sorted by their grammatical gender into four text lists: masculine,
 
 Each singular noun has its plural form(s) provided. Many plurals were scraped from [Wiktionary](https://de.wiktionary.org/).
 
+Simply grab a line from the file and split it by `"\t"`; the first element will be the singular form, while any following elements will be the plural forms, with the most frequently-used plurals showing up earlier in the list than others.
+
 <br>
 
 # Notes
