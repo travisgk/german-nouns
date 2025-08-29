@@ -334,12 +334,13 @@ def get_genders(word: str, sentence: str = "") -> list:
     if len(results) == 0:
         # If there are still no results, chop away one character
         # at a time on the left side until results are met.
-        # Stop doing this around 5 chars.
+        # Stop doing this around 3 syllables left.
         syllables = syllabify(word)
-        while len(syllables) > 3 and len(results) == 0:
+        while len(syllables) > 1 and len(results) == 0:
             syllables = syllables[1:]
             search_term = "".join(syllables)
-            search_term = search_term[1].upper() + search_term[2:]
+            print(search_term)
+            search_term = search_term[0].upper() + search_term[1:]
             results = get_genders(search_term)
 
     if len(sentence) < len(word):
