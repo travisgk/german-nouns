@@ -1,9 +1,16 @@
-# german-word-lists
-Thousands of German words sorted by their grammatical gender into four alphabetical text lists: masculine, feminine, neutral and plural-only nouns.
+# german-nouns
+Thousands of German nouns sorted by their grammatical gender into five alphabetical text lists: 
+- Masculine Nouns
+- Feminine Nouns
+- Neutral Nouns
+- Infinitive Verbs (as nouns that lack plurals).
+- Plural-only Nouns.
 
 Each singular noun has its plural form(s) provided. Many plurals were scraped from [Wiktionary](https://de.wiktionary.org/).
 
-These lists are based off of the lists found in Chriss Posselt's repository [AlleDeutschenWoerter](https://github.com/cpos/AlleDeutschenWoerter). Words with umlauts (äöü) or an eszett (ß) have been added to the lists.
+Most of these lists are based off of the lists found in [Chriss Posselt's](https://github.com/cpos) repository [AlleDeutschenWoerter](https://github.com/cpos/AlleDeutschenWoerter). Common words and words with umlauts (äöü) or an eszett (ß) have been added to the lists. 
+
+The list of infinitive verbs was sourced from [Stan James's](https://github.com/wanderingstan) gist named [top-german-verbs.csv](https://gist.github.com/wanderingstan/7eaaf0e22461b505c749e268c0b72bc4).
 
 <br>
 
