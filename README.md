@@ -1,5 +1,5 @@
 # german-word-lists
-Thousands of German words sorted by their grammatical gender into four text lists: masculine, feminine, neutral and plural-only nouns.
+Thousands of German words sorted by their grammatical gender into four alphabetical text lists: masculine, feminine, neutral and plural-only nouns.
 
 Each singular noun has its plural form(s) provided. Many plurals were scraped from [Wiktionary](https://de.wiktionary.org/).
 
