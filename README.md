@@ -15,7 +15,7 @@ Additional words, including those with umlauts (ä, ö, ü) or an eszett (ß), h
 
 The list of infinitive verbs was originally based on [Stan James’s](https://github.com/wanderingstan) gist [top-german-verbs.csv](https://gist.github.com/wanderingstan/7eaaf0e22461b505c749e268c0b72bc4). 
 
-However, the dataset here has been transformed and split into two files, with only raw infinitives retained.
+However, the dataset here has been transformed and split into two files by cross-referencing it with the project's other files, with only raw infinitives retained.
 Frequency, ranking information, and conjugations from the original dataset are **not** used.
 
 <br>
