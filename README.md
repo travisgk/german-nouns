@@ -6,6 +6,8 @@ Thousands of German nouns sorted by their grammatical gender into five alphabeti
 - Infinitive Verbs (as nouns that lack plurals).
 - Plural-only Nouns.
 
+<br>
+
 ## Data Sources
 
 Each singular noun has its plural form(s) provided. Many plurals were scraped from [Wiktionary](https://de.wiktionary.org/).
