@@ -16,7 +16,7 @@ Simply grab a line from the file and split it by `"\t"`.
 
 The first element will be the singular form, while any following elements will be the plural forms, with the most frequently-used plurals showing up earlier in the list than others.
 
-
+If the plural element is `"—"`, then that means that the noun is only used in the singular.
 
 <br>
 
