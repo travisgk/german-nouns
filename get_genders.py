@@ -161,7 +161,7 @@ def _get_gender_by_guessing(word: str) -> list:
     )
 
 
-def syllabify(word: str):
+def _syllabify(word: str):
     """
     Heuristic syllabifier for German words.
     Returns a list of syllables (preserves original case).
@@ -335,11 +335,10 @@ def get_genders(word: str, sentence: str = "") -> list:
         # If there are still no results, chop away one character
         # at a time on the left side until results are met.
         # Stop doing this around 3 syllables left.
-        syllables = syllabify(word)
+        syllables = _syllabify(word)
         while len(syllables) > 1 and len(results) == 0:
             syllables = syllables[1:]
             search_term = "".join(syllables)
-            print(search_term)
             search_term = search_term[0].upper() + search_term[1:]
             results = get_genders(search_term)
 
