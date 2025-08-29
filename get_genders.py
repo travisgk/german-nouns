@@ -8,6 +8,7 @@ Description: This contains the function to return
              a list of strings indicating a word's possible gender(s).
 
     Key:
+        "v+" = infinitive verb singular using "das".
         "sm" = singular masculine.
         "sf" = singular feminine.
         "sn" = singular neutral.
@@ -25,6 +26,7 @@ Description: This contains the function to return
 import sys
 from pathlib import Path
 
+USE_V_PLUS_FOR_INFINITIVES = True
 LISTS_DIR = Path(__file__).parent / "nouns"
 
 
@@ -159,13 +161,18 @@ def _get_gender_by_guessing(word: str) -> list:
     )
 
 
-def get_genders(word: str) -> list:
+def get_genders(word: str, sentence: str="") -> list:
     """
     Returns a list of strings,
     each representing the kind of article the noun could have,
     along with a grade of certainty from the program itself.
 
+    word (str): The noun to get the genders for.
+    sentence (str): Optional. You can give the function the last ~5 words
+                    and have it better infer what the noun's gender should be.
+
     Key:
+        "v+" = infinitive verb singular using "das".
         "sm" = singular masculine.
         "sf" = singular feminine.
         "sn" = singular neutral.
@@ -200,7 +207,7 @@ def get_genders(word: str) -> list:
         results.append("sn(L)")
     if word in _verbs_das:
         is_infinitive = True  # has no specified plural.
-        results.append("sn(L)")
+        results.append("v+(L)" if USE_V_PLUS_FOR_INFINITIVES else "sn(L)")
 
     if word in _der_plurals:
         results.append("pm(L)")
@@ -217,6 +224,57 @@ def get_genders(word: str) -> list:
         results = _get_gender_by_absolutes(word)
         if len(results) == 0:
             results = _get_gender_by_guessing(word)
+
+    if len(results) == 0:
+        # If there are still no results, chop away one character
+        # at a time on the left side until results are met.
+        # Stop doing this around 5 chars.
+        search_term = word
+        while len(search_term) > 5 and len(results) == 0:
+            search_term = search_term[1].upper() + search_term[2:]
+            results = get_genders(search_term)
+
+    if len(sentence) < len(word):
+        return results
+
+    # TODO: use contextual words to refine results.
+    # Looks for contextual articles.
+    MASC_TERMS = [
+        f"{prep} {word}"
+        for prep in ["bis", "durch", "gegen", "ohne", "um", "für"]
+        for word in [
+            "den", "einen", "seinen", "ihren", "Ihren",
+            "unseren", "euren", "deinen", "meinen",
+            "jeden", "eigenen",
+        ]
+    ]
+
+    FEM_TERMS = [
+        f"{prep} {word}"
+        for prep in ["bis", "durch", "gegen", "ohne", "um", "für"]
+        for word in ["eine", "jede", "jene"]
+    ]
+
+
+    FEM_OR_PLURAL_TERMS = [
+        f"{prep} {word}"
+        for prep in ["bis", "durch", "gegen", "ohne", "um", "für"]
+        for word in [
+            "die", "seine", "ihre", "Ihre",
+            "unsere", "eure", "deine", "meine",
+            "jede", "eigene",
+        ]
+    ]
+
+
+    NEUTRAL_TERMS = [
+        "das",
+    ]
+    MASC_OR_NEUTRAL_TERMS = [
+        "dem",
+        "einem",
+    ]
+
     return results
 
 
