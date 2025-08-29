@@ -161,7 +161,108 @@ def _get_gender_by_guessing(word: str) -> list:
     )
 
 
-def get_genders(word: str, sentence: str="") -> list:
+def syllabify(word: str):
+    """
+    Heuristic syllabifier for German words.
+    Returns a list of syllables (preserves original case).
+    Not exhaustive: German syllabification has many exceptions.
+    """
+    w = word
+    lower = w.lower()
+    n = len(w)
+
+    # vowels (including umlauts)
+    vowels = set("aeiouyäöüy")
+    # common diphthongs treated as single nucleus
+    diphthongs = {"ie", "ei", "ai", "au", "äu", "eu", "ey", "oi", "ui", "ou"}
+    # clusters that usually stay together and become onset of next syllable
+    inseparable_clusters = {
+        "sch",
+        "ch",
+        "ck",
+        "ph",
+        "th",
+        "ng",
+        "qu",
+        "ts",
+        "tz",
+        "sp",
+        "st",
+        "sc",
+        "pf",
+        "tr",
+        "dr",
+        "kr",
+        "gr",
+        "pr",
+        "br",
+    }
+
+    syllables = []
+    i = 0
+    while i < n:
+        # find next vowel nucleus at or after i
+        vpos = None
+        for j in range(i, n):
+            if lower[j] in vowels:
+                vpos = j
+                break
+        if vpos is None:
+            # no vowel left — attach remaining chars to last syllable or return as chunk
+            if syllables:
+                syllables[-1] += w[i:]
+            else:
+                syllables.append(w[i:])
+            break
+
+        # nucleus length (1 or 2 for diphthong)
+        nucleus_len = 1
+        if vpos + 1 < n and lower[vpos : vpos + 2] in diphthongs:
+            nucleus_len = 2
+
+        # find next vowel after this nucleus
+        next_vpos = None
+        for j in range(vpos + nucleus_len, n):
+            if lower[j] in vowels:
+                next_vpos = j
+                break
+
+        if next_vpos is None:
+            # rest of word belongs to this final syllable
+            syllables.append(w[i:])
+            break
+
+        # consonants between this nucleus and the next vowel
+        cons_start = vpos + nucleus_len
+        cons = lower[cons_start:next_vpos]
+
+        if len(cons) == 0:
+            # V V -> boundary before next vowel
+            syll_end = cons_start
+        elif len(cons) == 1:
+            # V C V -> consonant moves to onset of next syllable
+            syll_end = cons_start
+        else:
+            # multiple consonants: check inseparable clusters
+            matched = False
+            for cluster in sorted(inseparable_clusters, key=len, reverse=True):
+                if cons.startswith(cluster):
+                    matched = True
+                    break
+            if matched:
+                # boundary before cluster (cluster goes to onset of next syllable)
+                syll_end = cons_start
+            else:
+                # default: leave one consonant in coda, rest to next onset (VC.CV)
+                syll_end = cons_start + 1
+
+        syllables.append(w[i:syll_end])
+        i = syll_end
+
+    return syllables
+
+
+def get_genders(word: str, sentence: str = "") -> list:
     """
     Returns a list of strings,
     each representing the kind of article the noun could have,
@@ -199,6 +300,11 @@ def get_genders(word: str, sentence: str="") -> list:
         ]
 
     is_infinitive = False
+    if word in ["grunde"]:  # DATIV
+        return [
+            "sm(L)",
+        ]
+
     if word in _der_singulars:
         results.append("sm(L)")
     if word in _die_singulars:
@@ -229,8 +335,10 @@ def get_genders(word: str, sentence: str="") -> list:
         # If there are still no results, chop away one character
         # at a time on the left side until results are met.
         # Stop doing this around 5 chars.
-        search_term = word
-        while len(search_term) > 5 and len(results) == 0:
+        syllables = syllabify(word)
+        while len(syllables) > 3 and len(results) == 0:
+            syllables = syllables[1:]
+            search_term = "".join(syllables)
             search_term = search_term[1].upper() + search_term[2:]
             results = get_genders(search_term)
 
@@ -243,9 +351,17 @@ def get_genders(word: str, sentence: str="") -> list:
         f"{prep} {word}"
         for prep in ["bis", "durch", "gegen", "ohne", "um", "für"]
         for word in [
-            "den", "einen", "seinen", "ihren", "Ihren",
-            "unseren", "euren", "deinen", "meinen",
-            "jeden", "eigenen",
+            "den",
+            "einen",
+            "seinen",
+            "ihren",
+            "Ihren",
+            "unseren",
+            "euren",
+            "deinen",
+            "meinen",
+            "jeden",
+            "eigenen",
         ]
     ]
 
@@ -255,17 +371,22 @@ def get_genders(word: str, sentence: str="") -> list:
         for word in ["eine", "jede", "jene"]
     ]
 
-
     FEM_OR_PLURAL_TERMS = [
         f"{prep} {word}"
         for prep in ["bis", "durch", "gegen", "ohne", "um", "für"]
         for word in [
-            "die", "seine", "ihre", "Ihre",
-            "unsere", "eure", "deine", "meine",
-            "jede", "eigene",
+            "die",
+            "seine",
+            "ihre",
+            "Ihre",
+            "unsere",
+            "eure",
+            "deine",
+            "meine",
+            "jede",
+            "eigene",
         ]
     ]
-
 
     NEUTRAL_TERMS = [
         "das",
