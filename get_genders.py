@@ -93,6 +93,7 @@ def _find_results(
         results.append(f"sn({grade})")
         is_chen_word = True
     elif any(word.endswith(end) for end in s_der):
+        #print(next(end for end in s_der if word.endswith(end)))
         results.append(f"sm({grade})")
     elif any(word.endswith(end) for end in s_die):
         results.append(f"sf({grade})")
@@ -107,6 +108,8 @@ def _find_results(
         results.append(f"pf({grade})")
     elif any(word.endswith(end) for end in p_das):
         results.append(f"pn({grade})")
+
+    #print(f"guess: {results}")
 
     return results
 
@@ -151,11 +154,11 @@ def _get_gender_by_guessing(word: str) -> list:
     return _find_results(
         word=word,
         grade="G",  # guessing
-        s_der=["er", "ich", "ig", "eig", "or"],
+        s_der=["ich", "eig", "or"],
         s_die=["anz", "ur"],
         s_das=["il", "ma", "nis"],
         prior_chen="n",
-        p_der=["er", "oren"],
+        p_der=["oren"],
         p_die=["anzen", "uren"],
         p_das=["nisse"],
     )
@@ -163,9 +166,8 @@ def _get_gender_by_guessing(word: str) -> list:
 
 def _syllabify(word: str):
     """
-    Heuristic syllabifier for German words.
+    Heuristic syllabifier for German words (fixed).
     Returns a list of syllables (preserves original case).
-    Not exhaustive: German syllabification has many exceptions.
     """
     w = word
     lower = w.lower()
@@ -177,25 +179,8 @@ def _syllabify(word: str):
     diphthongs = {"ie", "ei", "ai", "au", "äu", "eu", "ey", "oi", "ui", "ou"}
     # clusters that usually stay together and become onset of next syllable
     inseparable_clusters = {
-        "sch",
-        "ch",
-        "ck",
-        "ph",
-        "th",
-        "ng",
-        "qu",
-        "ts",
-        "tz",
-        "sp",
-        "st",
-        "sc",
-        "pf",
-        "tr",
-        "dr",
-        "kr",
-        "gr",
-        "pr",
-        "br",
+        "sch", "ch", "ck", "ph", "th", "ng", "qu", "ts", "tz",
+        "sp", "st", "sc", "pf", "tr", "dr", "kr", "gr", "pr", "br",
     }
 
     syllables = []
@@ -236,30 +221,30 @@ def _syllabify(word: str):
         cons_start = vpos + nucleus_len
         cons = lower[cons_start:next_vpos]
 
+        # --- Improved splitting logic ---
+        # Try to split cons into coda/onset by finding the smallest coda length
+        # such that the remaining onset is valid (either a known cluster or a single consonant).
         if len(cons) == 0:
-            # V V -> boundary before next vowel
-            syll_end = cons_start
-        elif len(cons) == 1:
-            # V C V -> consonant moves to onset of next syllable
-            syll_end = cons_start
+            coda_len = 0
         else:
-            # multiple consonants: check inseparable clusters
-            matched = False
-            for cluster in sorted(inseparable_clusters, key=len, reverse=True):
-                if cons.startswith(cluster):
-                    matched = True
+            coda_len = None
+            for s in range(0, len(cons)):
+                onset = cons[s:]
+                # require that the entire onset is one of the allowed multi-letter clusters
+                # or that it's a single consonant (single letters are allowed onsets)
+                if onset in inseparable_clusters or len(onset) == 1:
+                    coda_len = s
                     break
-            if matched:
-                # boundary before cluster (cluster goes to onset of next syllable)
-                syll_end = cons_start
-            else:
-                # default: leave one consonant in coda, rest to next onset (VC.CV)
-                syll_end = cons_start + 1
+            if coda_len is None:
+                # fallback: leave one consonant in coda (VC.CV)
+                coda_len = max(0, len(cons) - 1)
 
+        syll_end = cons_start + coda_len
         syllables.append(w[i:syll_end])
         i = syll_end
 
     return syllables
+
 
 
 def get_genders(word: str, sentence: str = "") -> list:
@@ -311,20 +296,22 @@ def get_genders(word: str, sentence: str = "") -> list:
         results.append("sf(L)")
     if word in _das_singulars:
         results.append("sn(L)")
-    if word in _verbs_das:
-        is_infinitive = True  # has no specified plural.
-        results.append("v+(L)" if USE_V_PLUS_FOR_INFINITIVES else "sn(L)")
-
+    
     if word in _der_plurals:
         results.append("pm(L)")
     if word in _die_plurals:
         results.append("pf(L)")
-    if not is_infinitive:
+    
+    if word not in _verbs_das:
         if word in _das_plurals:
             results.append("pn(L)")
 
         if word in _plural_onlys:
             results.append("po(L)")
+
+    else: # is infinitive.
+        results.append("v+(L)" if USE_V_PLUS_FOR_INFINITIVES else "sn(L)")
+
 
     if len(results) == 0:
         results = _get_gender_by_absolutes(word)
@@ -336,13 +323,18 @@ def get_genders(word: str, sentence: str = "") -> list:
         # at a time on the left side until results are met.
         # Stop doing this around 3 syllables left.
         syllables = _syllabify(word)
+        print(f"syllables: {syllables}")
         while len(syllables) > 1 and len(results) == 0:
             syllables = syllables[1:]
+            #print(f"syllables: {syllables}")
             search_term = "".join(syllables)
             search_term = search_term[0].upper() + search_term[1:]
+            #print(search_term)
             results = get_genders(search_term)
+            #print(f"results: {results}", end="\n\n")
 
     if len(sentence) < len(word):
+        print(f"{word}\t{results}")
         return results
 
     # TODO: use contextual words to refine results.
