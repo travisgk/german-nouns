@@ -74,6 +74,7 @@ Absorbieren
 Abspielen
 Absprechen
 Abspringen
+Abspritzen
 Absteigen
 Abstellen
 Abstimmen

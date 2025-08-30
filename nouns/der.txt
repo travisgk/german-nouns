@@ -1132,6 +1132,7 @@ Drogenkonsum	—
 Drogenmissbrauch	Drogenmissbräuche
 Drohbrief	Drohbriefe
 Drost	Droste
+Druck	Drücke	Drucke
 Drucker	Drucker
 Dschihad	—
 Dschungel	Dschungel	Dschungeln	Dschungels
@@ -3132,6 +3133,7 @@ Malwettbewerb	Malwettbewerbe
 Manager	Manager
 Mandant	Mandanten
 Mandatar	Mandatare
+Mangel	Mängel
 Mangold	Mangolde
 Mann	Männer
 Manndecker	Manndecker
@@ -4346,6 +4348,7 @@ Schirmer	Schirmer
 Schirmherr	Schirmherren
 Schlachthof	Schlachthöfe
 Schlachtruf	Schlachtrufe
+Schlaf	—
 Schlafplatz	Schlafplätze
 Schlafsack	Schlafsäcke
 Schlag	Schläge

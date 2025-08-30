@@ -1648,6 +1648,7 @@ Fastnacht	—
 Faszination	Faszinationen
 Faulheit	Faulheiten
 Fauna	Faunen
+Faust	Fäuste
 Faustfeuerwaffe	Faustfeuerwaffen
 Faustregel	Faustregeln
 Favoritenrolle	Favoritenrollen
@@ -2188,6 +2189,7 @@ Gruppe	Gruppen
 Gruppenarbeit	Gruppenarbeiten
 Gruppierung	Gruppierungen
 Gräfin	Gräfinnen
+Größe	Größen
 Gründung	Gründungen
 Gunst	Gunsten
 Gurke	Gurken

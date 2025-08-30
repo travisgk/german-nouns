@@ -3330,6 +3330,7 @@ Zwischenergebnis	Zwischenergebnisse
 Zwischenlager	Zwischenlager	Zwischenläger
 Zwischenspiel	Zwischenspiele
 Zwitschern	Zwitschern
+Zyklus	Zyklen
 Zypern	—
 Zögern	Zögern
 Ächzen	Ächzen
