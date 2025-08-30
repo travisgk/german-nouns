@@ -55,6 +55,8 @@ _die_plurals = []
 _das_singulars = []
 _das_plurals = []
 _verbs_das = []
+_weak_der_singulars = []
+_weak_der_declinations = []
 _plural_onlys = []
 
 
@@ -63,12 +65,18 @@ def _load_sets():
     global _die_singulars, _die_plurals
     global _das_singulars, _das_plurals
     global _verbs_das
+    global _weak_der_singulars, _weak_der_declinations
     global _plural_onlys
     if len(_der_singulars) == 0:
         _load_words("der", _der_singulars, _der_plurals)
         _load_words("die", _die_singulars, _die_plurals)
         _load_words("das", _das_singulars, _das_plurals)
         _load_words("verbs-no-plural", _verbs_das, [])
+        _load_words(
+            "der-special-declinations", 
+            _weak_der_singulars, 
+            _weak_der_declinations,
+        )
         _load_words("plural-only", [], _plural_onlys)
 
         _der_singulars = set(_der_singulars)
@@ -80,7 +88,8 @@ def _load_sets():
         _das_singulars = set(_das_singulars)
         _das_plurals = set(_das_plurals)
         _verbs_das = set(_verbs_das)
-
+        _weak_der_singulars = set(_weak_der_singulars)
+        _weak_der_declinations = set(_weak_der_declinations)
         _plural_onlys = set(_plural_onlys)
 
 
@@ -89,11 +98,10 @@ def _find_results(
 ) -> list:
     results = []
     is_chen_word = False
-    if word.endswith("chen") and word[-5] in prior_chen:
+    if len(word) >= 5 and word.endswith("chen") and word[-5] in prior_chen:
         results.append(f"sn({grade})")
         is_chen_word = True
     elif any(word.endswith(end) for end in s_der):
-        #print(next(end for end in s_der if word.endswith(end)))
         results.append(f"sm({grade})")
     elif any(word.endswith(end) for end in s_die):
         results.append(f"sf({grade})")
@@ -108,8 +116,6 @@ def _find_results(
         results.append(f"pf({grade})")
     elif any(word.endswith(end) for end in p_das):
         results.append(f"pn({grade})")
-
-    #print(f"guess: {results}")
 
     return results
 
@@ -137,7 +143,6 @@ def _get_gender_by_absolutes(word: str) -> list:
         p_die=[
             "enzen",
             "heiten",
-            "ien",
             "schaften",
             "sionen",
             "tionen",
@@ -181,6 +186,10 @@ def _syllabify(word: str):
     inseparable_clusters = {
         "sch", "ch", "ck", "ph", "th", "ng", "qu", "ts", "tz",
         "sp", "st", "sc", "pf", "tr", "dr", "kr", "gr", "pr", "br",
+        # some common triple clusters
+        "str", "spr", "skr",
+        # add kn/gn as known onsets
+        "kn", "gn",
     }
 
     syllables = []
@@ -193,19 +202,16 @@ def _syllabify(word: str):
                 vpos = j
                 break
         if vpos is None:
-            # no vowel left — attach remaining chars to last syllable or return as chunk
             if syllables:
                 syllables[-1] += w[i:]
             else:
                 syllables.append(w[i:])
             break
 
-        # nucleus length (1 or 2 for diphthong)
         nucleus_len = 1
         if vpos + 1 < n and lower[vpos : vpos + 2] in diphthongs:
             nucleus_len = 2
 
-        # find next vowel after this nucleus
         next_vpos = None
         for j in range(vpos + nucleus_len, n):
             if lower[j] in vowels:
@@ -213,37 +219,55 @@ def _syllabify(word: str):
                 break
 
         if next_vpos is None:
-            # rest of word belongs to this final syllable
             syllables.append(w[i:])
             break
 
-        # consonants between this nucleus and the next vowel
         cons_start = vpos + nucleus_len
         cons = lower[cons_start:next_vpos]
 
         # --- Improved splitting logic ---
-        # Try to split cons into coda/onset by finding the smallest coda length
-        # such that the remaining onset is valid (either a known cluster or a single consonant).
         if len(cons) == 0:
             coda_len = 0
         else:
             coda_len = None
             for s in range(0, len(cons)):
                 onset = cons[s:]
-                # require that the entire onset is one of the allowed multi-letter clusters
-                # or that it's a single consonant (single letters are allowed onsets)
                 if onset in inseparable_clusters or len(onset) == 1:
                     coda_len = s
                     break
+
+                if len(onset) == 2:
+                    a, b = onset[0], onset[1]
+                    # allow liquid endings (fl, br, ...),
+                    # s+plosive (sp, st, sk),
+                    # and plosive+nasal onsets (kn, gn, pn, tn, etc.)
+                    if (
+                        b in ("l", "r")
+                        or (a == "s" and b in ("p", "t", "k"))
+                        or (b == "n" and a in ("k", "g", "p", "b", "t", "d"))
+                    ):
+                        coda_len = s
+                        break
+
+                if len(onset) >= 3:
+                    if onset[0] == "s" and onset[1] in ("p", "t", "k") and onset[2] in ("l", "r"):
+                        coda_len = s
+                        break
+
             if coda_len is None:
-                # fallback: leave one consonant in coda (VC.CV)
                 coda_len = max(0, len(cons) - 1)
 
         syll_end = cons_start + coda_len
         syllables.append(w[i:syll_end])
         i = syll_end
 
+    if len(syllables) > 1 and syllables[-1] == "zen":
+        syllables = syllables[:-1]
+        syllables[-1] = syllables[-1] + "zen"
+
     return syllables
+
+
 
 
 
@@ -289,6 +313,10 @@ def get_genders(word: str, sentence: str = "") -> list:
         return [
             "sm(L)",
         ]
+    elif word == "Herzens" or word == "Herzen": 
+        return [
+            "sn(L)", "pn(L)",
+        ]
 
     if word in _der_singulars:
         results.append("sm(L)")
@@ -298,6 +326,8 @@ def get_genders(word: str, sentence: str = "") -> list:
         results.append("sn(L)")
     
     if word in _der_plurals:
+        if word in _weak_der_declinations:
+            results.append("sm(L)")
         results.append("pm(L)")
     if word in _die_plurals:
         results.append("pf(L)")
@@ -321,21 +351,25 @@ def get_genders(word: str, sentence: str = "") -> list:
     if len(results) == 0:
         # If there are still no results, chop away one character
         # at a time on the left side until results are met.
-        # Stop doing this around 3 syllables left.
+        # Stop doing this around 1 syllables left.
         syllables = _syllabify(word)
-        print(f"syllables: {syllables}")
         while len(syllables) > 1 and len(results) == 0:
             syllables = syllables[1:]
-            #print(f"syllables: {syllables}")
             search_term = "".join(syllables)
             search_term = search_term[0].upper() + search_term[1:]
-            #print(search_term)
             results = get_genders(search_term)
-            #print(f"results: {results}", end="\n\n")
 
-    if len(sentence) < len(word):
-        print(f"{word}\t{results}")
+    if len(sentence) < len(word) or len(results) <= 1:
         return results
+
+    prev_words = sentence.split()
+    if prev_words[-1] == word:
+        prev_words = prev_words[:-1]
+
+    first_noun_i = next((len(prev_words) - i - 1 for i, w in enumerate(reversed(prev_words)) if w[0].isupper() and w[0].isalpha), -1)
+    if first_noun_i >= 0:
+        prev_words = prev_words[first_noun_i + 1:]
+
 
     # TODO: use contextual words to refine results.
     # Looks for contextual articles.
