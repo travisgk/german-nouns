@@ -731,6 +731,7 @@ Blumentopf	Blumentöpfe
 Blutdruck	Blutdrücke	Blutdrucke
 Bluterguss	Blutergüsse
 Bluthochdruck	—
+Blutrausch	Bluträusche
 Bluttest	Bluttests	Blutteste
 Bobby	Bobbys
 Bock	Böcke
@@ -1907,6 +1908,7 @@ Glückwunsch	Glückwünsche
 Goalgetter	Goalgetter
 Goalie	Goalies
 Goldpreis	Goldpreise
+Goldrausch	Goldräusche
 Goldschmied	Goldschmiede
 Golfer	Golfer
 Golfkrieg	Golfkriege
@@ -3357,6 +3359,7 @@ Mountainbiker	Mountainbiker
 Mucks	Muckse
 Mullah	Mullahs
 Multi	Multis
+Mund	Münder
 Mundgeruch	Mundgerüche
 Mundwinkel	Mundwinkel
 Museumsdirektor	Museumsdirektoren
@@ -4961,6 +4964,7 @@ Stolperstein	Stolpersteine
 Stolz	—
 Stopp	Stopps
 Storch	Störche
+Stoß	Stöße
 Strafantrag	Strafanträge
 Strafbefehl	Strafbefehle
 Strafgerichtshof	Strafgerichtshöfe

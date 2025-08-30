@@ -1024,6 +1024,7 @@ Gerede	—
 Gericht	Gerichte
 Gerichtsurteil	Gerichtsurteile
 Gerichtsverfahren	Gerichtsverfahren
+Geräusch	Geräusche
 Gerüst	Gerüste
 Gesamtbild	Gesamtbilder
 Gesamtergebnis	Gesamtergebnisse
@@ -1292,6 +1293,7 @@ Hospiz	Hospize
 Hotel	Hotels
 Hotelzimmer	Hotelzimmer
 Huhn	Hühner
+Hundert	Hundert	Hunderte
 Hunderttausend	Hunderttausende	Hunderttausend
 Hurra	Hurras
 Hähnchen	Hähnchen
@@ -2835,6 +2837,7 @@ Taschengeld	Taschengelder
 Taschentuch	Taschentücher
 Taschkent	—
 Tatmotiv	Tatmotive
+Tausend	Tausende	Tausenden
 Tauwetter	—
 Tauziehen	—
 Team	Teams

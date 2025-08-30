@@ -2410,7 +2410,6 @@ Hotline	Hotlines
 Hube	Huben
 Huldigung	Huldigungen
 Hunderasse	Hunderassen
-Hundert	—
 Hundertschaft	Hundertschaften
 Hundertstelsekunde	Hundertstelsekunden
 Hungersnot	Hungersnöte
@@ -5172,6 +5171,7 @@ Titelrolle	Titelrollen
 Titelseite	Titelseiten
 Titelverteidigerin	Titelverteidigerinnen
 Titelverteidigung	Titelverteidigungen
+Titte	Titten
 Tochter	Töchter
 Tochterfirma	Tochterfirmen
 Tochtergesellschaft	Tochtergesellschaften
@@ -5813,6 +5813,7 @@ Warteschlange	Warteschlangen
 Warteschleife	Warteschleifen
 Wartezeit	Wartezeiten
 Wartung	Wartungen
+Warze	Warzen
 Waschmaschine	Waschmaschinen
 Wasserkraft	—
 Wasserleitung	Wasserleitungen
